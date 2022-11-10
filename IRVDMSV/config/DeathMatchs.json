@@ -1,0 +1,2289 @@
+/*
+  *    //Note : IRVDM WILL USE THIS DEATHMATCHES
+  *{
+  *    Name => Name IRVDM as id and show in voteMap [MUST HAVE]
+  *    Description => Used in voteMap
+  *    Author => Used in voteMap
+  *    Type => [Unused]
+  *    TextureName => Texture Name to load in votemap in Texture resource
+  *    MusicEventEventId => Game Music event command to trigger music
+  *    StopMusicCommandEventId => Game Music event command to stop music
+  *    RangeNumber => The range this Map should Have around MiddlePostition
+  *    TimeInMiliSecond => *int Time In MiliSecond
+  *    SpawnPoints => *Array spawn points see below
+  *    MatchProps => [Unused]
+  *    IPLs => *Array IPLs to load
+  *    PickupWeapons => *Array WEAPON PICKUPS [NEED PICKUP HASH]
+  *    StartWithWeapons => *Array Start with this weapons [Defualt None]
+  *    InteriorPropNames => *String Interior Prop Names should load for ipl [Defualt None]
+  *    Shape => *bool wheter this map should have shape around it or not [Defualt TRUE]
+  *    LockOnWeapons => *bool wheter this map should Lock On StartWithWeapons or not [Defualt FALSE]
+  *    WorldWeather => *Weather should this map have [Defualt CLEAR]
+  *    WorldTime => *Array Time game should have
+  *}
+  *
+  *
+  *    //[IRVDM DEVELOPT BY MEHRAD GHAEDI]
+  */
+[
+  {
+    "Name": "Default",
+    "Description": "CHANGE ME!",
+    "Author": "Change me!",
+    "Type": "DeathMatch",
+    "TextureName": "observatory",
+    "MusicEventEventId": "",
+    "StopMusicCommandEventId": "",
+    "RangeNumber": 100.0,
+    "TimeInMiliSecond": 120000,
+    "SpawnPoints": [
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 625.763,
+          "Y": 462.79,
+          "Z": 144.465
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 656.786,
+          "Y": 460.302,
+          "Z": 143.045
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 672.362,
+          "Y": 473.867,
+          "Z": 139.845
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 606.406,
+          "Y": 516.194,
+          "Z": 139.84
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 591.032,
+          "Y": 504.239,
+          "Z": 143.04
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 596.499,
+          "Y": 481.066,
+          "Z": 144.645
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 732.033,
+          "Y": 449.462,
+          "Z": 144.645
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 732.443,
+          "Y": 472.993,
+          "Z": 139.845
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 719.421,
+          "Y": 493.731,
+          "Z": 136.64
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 660.657,
+          "Y": 504.561,
+          "Z": 135.046
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 608.061,
+          "Y": 539.997,
+          "Z": 135.046
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 648.084,
+          "Y": 539.066,
+          "Z": 130.246
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 690.152,
+          "Y": 524.094,
+          "Z": 130.246
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 704.665,
+          "Y": 534.791,
+          "Z": 129.846
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 659.138,
+          "Y": 544.855,
+          "Z": 129.846
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 659.428,
+          "Y": 562.427,
+          "Z": 129.046
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 673.491,
+          "Y": 551.714,
+          "Z": 129.246
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 679.4,
+          "Y": 550.123,
+          "Z": 129.046
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 712.543,
+          "Y": 542.551,
+          "Z": 129.446
+        }
+      }
+    ],
+    "MatchProps": [],
+    "IPLs": [],
+    "PickupWeapons": [
+      {
+        "PickupHash": 4189041807,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 686.472,
+          "Y": 577.764,
+          "Z": 130.461
+        }
+      },
+      {
+        "PickupHash": 4189041807,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 693.831,
+          "Y": 564.064,
+          "Z": 129.046
+        }
+      },
+      {
+        "PickupHash": 4189041807,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 672.073,
+          "Y": 572.113,
+          "Z": 129.047
+        }
+      },
+      {
+        "PickupHash": 4189041807,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 657.114,
+          "Y": 567.187,
+          "Z": 129.694
+        }
+      },
+      {
+        "PickupHash": 4189041807,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 701.9,
+          "Y": 550.74,
+          "Z": 129.691
+        }
+      },
+      {
+        "PickupHash": 4189041807,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 714.304,
+          "Y": 536.33,
+          "Z": 129.846
+        }
+      },
+      {
+        "PickupHash": 4189041807,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 677.83,
+          "Y": 525.541,
+          "Z": 130.246
+        }
+      },
+      {
+        "PickupHash": 4189041807,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 623.559,
+          "Y": 559.135,
+          "Z": 130.246
+        }
+      },
+      {
+        "PickupHash": 4189041807,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 618.691,
+          "Y": 535.331,
+          "Z": 135.046
+        }
+      },
+      {
+        "PickupHash": 4189041807,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 672.196,
+          "Y": 503.881,
+          "Z": 135.046
+        }
+      },
+      {
+        "PickupHash": 4189041807,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 721.625,
+          "Y": 502.93,
+          "Z": 118.533
+        }
+      },
+      {
+        "PickupHash": 4189041807,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 696.551,
+          "Y": 462.595,
+          "Z": 141.445
+        }
+      },
+      {
+        "PickupHash": 4189041807,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 723.919,
+          "Y": 451.469,
+          "Z": 144.645
+        }
+      },
+      {
+        "PickupHash": 4189041807,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 659.61,
+          "Y": 451.997,
+          "Z": 353.01
+        }
+      },
+      {
+        "PickupHash": 4189041807,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 582.857,
+          "Y": 498.432,
+          "Z": 144.645
+        }
+      }
+    ],
+    "StartWithWeapons": {},
+    "LockOnWeapons": false,
+    "WorldWeather": "THUNDER",
+    "MiddlePosition": {
+      "X": 658.289,
+      "Y": 499.517,
+      "Z": 130.0
+    },
+    "WorldTime": {
+      "Hour": 5,
+      "Second": 0,
+      "Minutes": 0,
+      "MilliSecond": 0
+    }
+  },
+  {
+    "Name": "northCemet",
+    "Description": "Nothing to lose nothing to gain just fight till death on the ground. In cemetery of north yankton ",
+    "Author": "RaDi",
+    "Type": "DeathMatch",
+    "TextureName": "",
+    "MusicEventEventId": "",
+    "StopMusicCommandEventId": "",
+    "RangeNumber": 85.0,
+    "TimeInMiliSecond": 300000,
+    "SpawnPoints": [
+      {
+        "Heading": 180.248489,
+        "Position": {
+          "X": 3264.19556,
+          "Y": -4566.14648,
+          "Z": 118.087128
+        }
+      },
+      {
+        "Heading": 221.316238,
+        "Position": {
+          "X": 3288.105,
+          "Y": -4570.278,
+          "Z": 118.154739
+        }
+      },
+      {
+        "Heading": 212.392715,
+        "Position": {
+          "X": 3242.41821,
+          "Y": -4571.871,
+          "Z": 118.244347
+        }
+      },
+      {
+        "Heading": 264.331818,
+        "Position": {
+          "X": 3241.095,
+          "Y": -4594.36,
+          "Z": 116.802071
+        }
+      },
+      {
+        "Heading": 97.2529755,
+        "Position": {
+          "X": 3291.63916,
+          "Y": -4594.967,
+          "Z": 116.826195
+        }
+      },
+      {
+        "Heading": 75.348526,
+        "Position": {
+          "X": 3290.74023,
+          "Y": -4611.61865,
+          "Z": 115.809052
+        }
+      },
+      {
+        "Heading": 90.86727,
+        "Position": {
+          "X": 3289.1582,
+          "Y": -4641.41162,
+          "Z": 114.762482
+        }
+      },
+      {
+        "Heading": 89.3191452,
+        "Position": {
+          "X": 3284.53833,
+          "Y": -4650.3125,
+          "Z": 114.269196
+        }
+      },
+      {
+        "Heading": 353.688019,
+        "Position": {
+          "X": 3261.66724,
+          "Y": -4668.676,
+          "Z": 113.674995
+        }
+      },
+      {
+        "Heading": 120.453087,
+        "Position": {
+          "X": 3283.13672,
+          "Y": -4667.015,
+          "Z": 114.11879
+        }
+      },
+      {
+        "Heading": 32.1521149,
+        "Position": {
+          "X": 3241.23462,
+          "Y": -4671.21631,
+          "Z": 114.39106
+        }
+      },
+      {
+        "Heading": 14.3898773,
+        "Position": {
+          "X": 3241.84619,
+          "Y": -4643.678,
+          "Z": 114.601021
+        }
+      },
+      {
+        "Heading": 263.8185,
+        "Position": {
+          "X": 3240.68848,
+          "Y": -4611.97168,
+          "Z": 116.076149
+        }
+      }
+    ],
+    "MatchProps": [],
+    "IPLs": [
+      "prologue01",
+      "prologue01c",
+      "prologue01d",
+      "prologue01e",
+      "prologue01f",
+      "prologue01g",
+      "prologue01h",
+      "prologue01i",
+      "prologue01j",
+      "prologue01k",
+      "prologue01z",
+      "prologue02",
+      "prologue03",
+      "prologue03b",
+      "prologue03_grv_dug",
+      "prologue_grv_torch",
+      "prologue04",
+      "prologue04b",
+      "prologue04_cover",
+      "des_protree_end",
+      "des_protree_start",
+      "prologue05",
+      "prologue05b",
+      "prologue06",
+      "prologue06b",
+      "prologue06_int",
+      "prologue06_pannel",
+      "plg_occl_00",
+      "prologue_occl",
+      "prologuerd",
+      "prologuerdb"
+    ],
+    "PickupWeapons": [
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 3253.79028,
+          "Y": -4595.984,
+          "Z": 116.7781
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 3263.334,
+          "Y": -4595.85938,
+          "Z": 116.81456
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 3273.102,
+          "Y": -4595.64258,
+          "Z": 116.823036
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 3280.9624,
+          "Y": -4611.21436,
+          "Z": 115.854187
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 3273.018,
+          "Y": -4611.74463,
+          "Z": 115.952385
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 3257.17651,
+          "Y": -4611.59473,
+          "Z": 115.987534
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 3246.92847,
+          "Y": -4611.63867,
+          "Z": 115.826759
+        }
+      }
+    ],
+    "StartWithWeapons": {},
+    "LockOnWeapons": false,
+    "WorldWeather": "BLIZZARD",
+    "MiddlePosition": {
+      "X": 3263.65967,
+      "Y": -4615.3916,
+      "Z": 116.106956
+    },
+    "WorldTime": {
+      "Hour": 0,
+      "Second": 0,
+      "Minutes": 0,
+      "MilliSecond": 0
+    }
+  },
+  {
+    "Name": "Parkour Rooftop Fight",
+    "Description": "CHANGE ME!",
+    "Author": "Change me!",
+    "Type": "DeathMatch",
+    "TextureName": "",
+    "MusicEventEventId": "",
+    "StopMusicCommandEventId": "",
+    "RangeNumber": 100.0,
+    "TimeInMiliSecond": 20000,
+    "SpawnPoints": [
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -582.3524,
+          "Y": -778.1974,
+          "Z": 25.0172119
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -589.5203,
+          "Y": -784.4153,
+          "Z": 25.0172138
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -609.061,
+          "Y": -774.8086,
+          "Z": 25.091362
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -614.73,
+          "Y": -791.655334,
+          "Z": 25.195
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -616.3008,
+          "Y": -764.3456,
+          "Z": 25.8292942
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -622.855164,
+          "Y": -772.0423,
+          "Z": 25.81891
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -619.0694,
+          "Y": -798.142761,
+          "Z": 25.467617
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -606.214966,
+          "Y": -802.113342,
+          "Z": 25.1371136
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -588.9781,
+          "Y": -821.490051,
+          "Z": 26.12808
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -585.4598,
+          "Y": -800.62616,
+          "Z": 28.5079212
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -582.0665,
+          "Y": -802.2122,
+          "Z": 30.69826
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -577.0166,
+          "Y": -780.287964,
+          "Z": 30.6961117
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -556.1682,
+          "Y": -780.5884,
+          "Z": 30.6982555
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -552.942,
+          "Y": -760.6193,
+          "Z": 30.6982632
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -542.3486,
+          "Y": -779.229065,
+          "Z": 30.6982651
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -554.8822,
+          "Y": -809.1476,
+          "Z": 30.7459049
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -546.711853,
+          "Y": -822.682556,
+          "Z": 28.5633869
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -577.3312,
+          "Y": -761.689636,
+          "Z": 30.69828
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -558.7175,
+          "Y": -756.4028,
+          "Z": 32.3507767
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -584.9933,
+          "Y": -749.33075,
+          "Z": 29.4870548
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -613.7894,
+          "Y": -753.9642,
+          "Z": 26.63851
+        }
+      }
+    ],
+    "MatchProps": [],
+    "IPLs": [],
+    "PickupWeapons": [
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -617.0788,
+          "Y": -776.4499,
+          "Z": 25.2603931
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -598.3741,
+          "Y": -778.394531,
+          "Z": 25.0172253
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -625.7651,
+          "Y": -785.5433,
+          "Z": 25.5557213
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -613.007751,
+          "Y": -824.4979,
+          "Z": 25.4020252
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -580.8454,
+          "Y": -824.026855,
+          "Z": 26.3375816
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -584.6099,
+          "Y": -808.8379,
+          "Z": 31.4358768
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -574.3512,
+          "Y": -774.8525,
+          "Z": 30.8684826
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -567.0701,
+          "Y": -781.217468,
+          "Z": 30.6616135
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -551.39325,
+          "Y": -807.829163,
+          "Z": 30.7459068
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -541.308,
+          "Y": -790.68396,
+          "Z": 30.8684845
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -540.5862,
+          "Y": -760.8638,
+          "Z": 30.6968517
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -567.095337,
+          "Y": -749.0811,
+          "Z": 33.19472
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -543.595764,
+          "Y": -752.4925,
+          "Z": 32.3393021
+        }
+      }
+    ],
+    "StartWithWeapons": {},
+    "LockOnWeapons": false,
+    "WorldWeather": "CLEAR",
+    "MiddlePosition": {
+      "X": -561.915039,
+      "Y": -780.9112,
+      "Z": 30.6346474
+    },
+    "WorldTime": {
+      "Hour": 5,
+      "Second": 0,
+      "Minutes": 0,
+      "MilliSecond": 0
+    }
+  },
+  {
+    "Name": "Paclice",
+    "Description": "CHANGE ME!",
+    "Author": "Change me!",
+    "Type": "DeathMatch",
+    "TextureName": "",
+    "MusicEventEventId": "",
+    "StopMusicCommandEventId": "",
+    "RangeNumber": 100.0,
+    "TimeInMiliSecond": 120000,
+    "SpawnPoints": [
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2313.4873,
+          "Y": 418.205353,
+          "Z": 174.466675
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2279.58057,
+          "Y": 396.433044,
+          "Z": 174.601639
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2315.077,
+          "Y": 372.6503,
+          "Z": 174.624512
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2334.427,
+          "Y": 367.0854,
+          "Z": 174.606613
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2285.55713,
+          "Y": 367.209747,
+          "Z": 174.601639
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2263.128,
+          "Y": 405.557739,
+          "Z": 174.601944
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2245.498,
+          "Y": 385.1608,
+          "Z": 174.602051
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2249.407,
+          "Y": 354.78,
+          "Z": 174.60199
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2250.3877,
+          "Y": 323.852539,
+          "Z": 174.601944
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2224.81323,
+          "Y": 305.13208,
+          "Z": 174.601852
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2206.94263,
+          "Y": 297.978668,
+          "Z": 171.997086
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2185.15869,
+          "Y": 275.347382,
+          "Z": 169.6071
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2181.051,
+          "Y": 266.434052,
+          "Z": 177.107086
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2174.55078,
+          "Y": 253.8036,
+          "Z": 184.60144
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2210.02222,
+          "Y": 225.60582,
+          "Z": 174.6019
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2238.46582,
+          "Y": 234.460953,
+          "Z": 174.539627
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2257.62134,
+          "Y": 239.873627,
+          "Z": 174.606918
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2273.158,
+          "Y": 270.26062,
+          "Z": 174.601837
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2285.58838,
+          "Y": 302.8637,
+          "Z": 184.59613
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2258.529,
+          "Y": 320.208221,
+          "Z": 184.606369
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2293.34741,
+          "Y": 272.381561,
+          "Z": 184.601608
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2311.093,
+          "Y": 307.2339,
+          "Z": 169.606934
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2320.335,
+          "Y": 336.043549,
+          "Z": 170.741547
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": -2331.44727,
+          "Y": 350.394165,
+          "Z": 172.810837
+        }
+      }
+    ],
+    "MatchProps": [],
+    "IPLs": [],
+    "PickupWeapons": [
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2296.746,
+          "Y": 382.000916,
+          "Z": 174.466782
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2301.959,
+          "Y": 390.666473,
+          "Z": 176.10199
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2313.46143,
+          "Y": 411.018768,
+          "Z": 174.466644
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2285.115,
+          "Y": 420.3654,
+          "Z": 174.601563
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2254.25366,
+          "Y": 410.590576,
+          "Z": 174.601929
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2244.60034,
+          "Y": 368.935059,
+          "Z": 175.3419
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2227.38184,
+          "Y": 351.751343,
+          "Z": 175.35553
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2246.30859,
+          "Y": 345.0187,
+          "Z": 176.299728
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2236.18237,
+          "Y": 315.151428,
+          "Z": 176.097626
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2199.39478,
+          "Y": 296.7938,
+          "Z": 170.332138
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2181.12671,
+          "Y": 236.4062,
+          "Z": 184.6018
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2161.03467,
+          "Y": 234.102875,
+          "Z": 184.601837
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2256.24341,
+          "Y": 239.651535,
+          "Z": 174.606934
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2263.99463,
+          "Y": 296.072571,
+          "Z": 175.084549
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2266.87134,
+          "Y": 319.898834,
+          "Z": 175.084457
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2249.20239,
+          "Y": 279.837769,
+          "Z": 175.084381
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2281.11572,
+          "Y": 256.051453,
+          "Z": 169.601822
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2306.50562,
+          "Y": 300.100616,
+          "Z": 169.602
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": -2344.18726,
+          "Y": 380.330658,
+          "Z": 174.466888
+        }
+      }
+    ],
+    "StartWithWeapons": {},
+    "LockOnWeapons": false,
+    "WorldWeather": "CLEAR",
+    "MiddlePosition": {
+      "X": -2261.167,
+      "Y": 296.64212,
+      "Z": 174.1973
+    },
+    "WorldTime": {
+      "Hour": 5,
+      "Second": 0,
+      "Minutes": 0,
+      "MilliSecond": 0
+    }
+  },
+  {
+    "Name": "Bluffs",
+    "Description": "CHANGE ME!",
+    "Author": "Change me!",
+    "Type": "DeathMatch",
+    "TextureName": "",
+    "MusicEventEventId": "",
+    "StopMusicCommandEventId": "",
+    "RangeNumber": 100.0,
+    "TimeInMiliSecond": 120000,
+    "SpawnPoints": [
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 262.045,
+          "Y": 136.7237,
+          "Z": 103.63
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 250.6354,
+          "Y": 127.3182,
+          "Z": 102.4792
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 244.3845,
+          "Y": 130.2006,
+          "Z": 102.5997
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 257.5336,
+          "Y": 86.93082,
+          "Z": 94.36307
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 244.7481,
+          "Y": 96.37031,
+          "Z": 94.05927
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 250.587,
+          "Y": 56.25425,
+          "Z": 88.47505
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 266.0827,
+          "Y": 21.8117,
+          "Z": 83.99132
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 250.7206,
+          "Y": 28.40533,
+          "Z": 84.10597
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 207.036,
+          "Y": 23.41089,
+          "Z": 79.19218
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 224.1993,
+          "Y": -7.069877,
+          "Z": 73.71949
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 239.0826,
+          "Y": 4.419541,
+          "Z": 81.7384
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 271.5712,
+          "Y": 36.09122,
+          "Z": 88.47424
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 281.0862,
+          "Y": 52.83229,
+          "Z": 88.47422
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 272.1814,
+          "Y": 61.59779,
+          "Z": 89.98933
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 253.4634,
+          "Y": 74.07845,
+          "Z": 94.37093
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 230.381,
+          "Y": 107.1761,
+          "Z": 93.81501
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 227.174,
+          "Y": 59.33681,
+          "Z": 87.92419
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 200.736,
+          "Y": 36.87455,
+          "Z": 83.74334
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 266.4853,
+          "Y": 21.9671,
+          "Z": 88.12721
+        }
+      }
+    ],
+    "MatchProps": [],
+    "IPLs": [],
+    "PickupWeapons": [
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 255.047,
+          "Y": 26.61204,
+          "Z": 84.013
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 240.065,
+          "Y": 32.13581,
+          "Z": 83.67806
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 230.1277,
+          "Y": 20.53705,
+          "Z": 81.73925
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 225.1666,
+          "Y": 2.559747,
+          "Z": 78.36111
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 214.7491,
+          "Y": -3.635481,
+          "Z": 73.99125
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 215.7482,
+          "Y": 21.93041,
+          "Z": 79.89276
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 195.1359,
+          "Y": 31.4499,
+          "Z": 81.37682
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 228.4139,
+          "Y": 46.22895,
+          "Z": 84.03164
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 218.436,
+          "Y": 37.18977,
+          "Z": 83.80859
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 203.2984,
+          "Y": 54.85233,
+          "Z": 83.69747
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 256.3322,
+          "Y": 68.0227,
+          "Z": 89.98915
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 265.8831,
+          "Y": 49.15376,
+          "Z": 88.47424
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 248.0644,
+          "Y": 51.29622,
+          "Z": 88.47424
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 243.3302,
+          "Y": 83.03692,
+          "Z": 92.46207
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 247.7944,
+          "Y": 116.1873,
+          "Z": 102.287
+        }
+      }
+    ],
+    "StartWithWeapons": {},
+    "LockOnWeapons": false,
+    "WorldWeather": "CLEAR",
+    "MiddlePosition": {
+      "X": 237.535,
+      "Y": 61.41491,
+      "Z": 86.63542
+    },
+    "WorldTime": {
+      "Hour": 5,
+      "Second": 0,
+      "Minutes": 0,
+      "MilliSecond": 0
+    }
+  },
+  {
+    "Name": "PRISON RIOTS",
+    "Description": "CHANGE ME!",
+    "Author": "Change me!",
+    "Type": "DeathMatch",
+    "TextureName": "",
+    "MusicEventEventId": "MP_DM_START_ALL",
+    "StopMusicCommandEventId": "MP_DM_STOP_TRACK",
+    "RangeNumber": 100.0,
+    "TimeInMiliSecond": 120000,
+    "SpawnPoints": [
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1692.3241,
+          "Y": 2471.90039,
+          "Z": 45.5650635
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1713.94177,
+          "Y": 2488.41528,
+          "Z": 45.56496
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1726.1792,
+          "Y": 2508.36353,
+          "Z": 45.5648575
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1708.03906,
+          "Y": 2524.45239,
+          "Z": 45.5648842
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1717.59949,
+          "Y": 2565.62256,
+          "Z": 45.5648727
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1674.11169,
+          "Y": 2563.736,
+          "Z": 45.56488
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1663.57312,
+          "Y": 2568.277,
+          "Z": 45.56489
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1648.74768,
+          "Y": 2541.85571,
+          "Z": 45.56482
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1620.10669,
+          "Y": 2531.64966,
+          "Z": 45.5648766
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1606.01538,
+          "Y": 2554.45142,
+          "Z": 45.5648766
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1647.10559,
+          "Y": 2521.303,
+          "Z": 45.5648766
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1670.44507,
+          "Y": 2523.53564,
+          "Z": 45.5648727
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1686.28735,
+          "Y": 2508.86377,
+          "Z": 45.5648766
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1745.95813,
+          "Y": 2537.92627,
+          "Z": 45.5649948
+        }
+      }
+    ],
+    "MatchProps": [],
+    "IPLs": [],
+    "PickupWeapons": [
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1668.61121,
+          "Y": 2503.35352,
+          "Z": 45.5648651
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1683.5896,
+          "Y": 2503.43481,
+          "Z": 45.5648727
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1666.38831,
+          "Y": 2518.32764,
+          "Z": 45.56487
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1641.00647,
+          "Y": 2514.70142,
+          "Z": 45.5648766
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1631.99353,
+          "Y": 2542.67676,
+          "Z": 45.564888
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1656.808,
+          "Y": 2550.01831,
+          "Z": 45.5648651
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1694.46729,
+          "Y": 2558.5415,
+          "Z": 45.564888
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1728.27014,
+          "Y": 2549.268,
+          "Z": 45.56486
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1767.519,
+          "Y": 2563.30225,
+          "Z": 45.5650177
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1757.61548,
+          "Y": 2517.353,
+          "Z": 45.5649872
+        }
+      }
+    ],
+    "StartWithWeapons": {},
+    "LockOnWeapons": false,
+    "WorldWeather": "CLEAR",
+    "MiddlePosition": {
+      "X": 1693.80615,
+      "Y": 2514.12817,
+      "Z": 45.56489
+    },
+    "WorldTime": {
+      "Hour": 5,
+      "Second": 0,
+      "Minutes": 0,
+      "MilliSecond": 0
+    }
+  },
+  {
+    "Name": "PRISON 2",
+    "Description": "CHANGE ME!",
+    "Author": "Change me!",
+    "Type": "DeathMatch",
+    "TextureName": "",
+    "MusicEventEventId": "",
+    "StopMusicCommandEventId": "",
+    "RangeNumber": 200.0,
+    "TimeInMiliSecond": 120000,
+    "SpawnPoints": [
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1693.80615,
+          "Y": 2514.12817,
+          "Z": 45.56489
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1676.93945,
+          "Y": 2523.14673,
+          "Z": 45.5648575
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1682.59167,
+          "Y": 2677.39648,
+          "Z": 45.5649071
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1661.95972,
+          "Y": 2671.052,
+          "Z": 45.6129
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1652.45142,
+          "Y": 2653.66187,
+          "Z": 45.56493
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1643.30627,
+          "Y": 2634.596,
+          "Z": 45.56488
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1667.1626,
+          "Y": 2627.82739,
+          "Z": 45.56486
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1701.64685,
+          "Y": 2630.4812,
+          "Z": 45.56487
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1720.1012,
+          "Y": 2649.72827,
+          "Z": 45.5648956
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1727.30432,
+          "Y": 2667.06445,
+          "Z": 45.5649033
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1704.73755,
+          "Y": 2678.57935,
+          "Z": 45.56493
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1753.07983,
+          "Y": 2673.958,
+          "Z": 48.403553
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1733.01465,
+          "Y": 2652.2937,
+          "Z": 51.9323044
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1729.812,
+          "Y": 2677.21484,
+          "Z": 51.9372
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1695.48792,
+          "Y": 2681.57544,
+          "Z": 48.403553
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1676.44055,
+          "Y": 2624.17822,
+          "Z": 55.4234047
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1689.835,
+          "Y": 2638.442,
+          "Z": 55.0326653
+        }
+      },
+      {
+        "Heading": 0.0,
+        "Position": {
+          "X": 1695.34949,
+          "Y": 2659.10229,
+          "Z": 54.8767967
+        }
+      }
+    ],
+    "MatchProps": [],
+    "IPLs": [],
+    "PickupWeapons": [
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1727.644,
+          "Y": 2663.74829,
+          "Z": 45.56492
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1709.37866,
+          "Y": 2672.70654,
+          "Z": 45.56492
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1711.49841,
+          "Y": 2695.48438,
+          "Z": 45.6169739
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1680.56262,
+          "Y": 2659.551,
+          "Z": 45.56491
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1667.43274,
+          "Y": 2631.071,
+          "Z": 47.6467171
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1651.37146,
+          "Y": 2648.234,
+          "Z": 45.5648956
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1650.70862,
+          "Y": 2648.1084,
+          "Z": 55.4268379
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1690.806,
+          "Y": 2645.85449,
+          "Z": 54.57995
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1699.80151,
+          "Y": 2630.72363,
+          "Z": 47.6357727
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1739.23657,
+          "Y": 2652.6377,
+          "Z": 45.56491
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1739.96191,
+          "Y": 2675.41675,
+          "Z": 45.5649033
+        }
+      },
+      {
+        "PickupHash": 2838846925,
+        "MaxAmmo": 100,
+        "Position": {
+          "X": 1768.93323,
+          "Y": 2654.56714,
+          "Z": 45.5649033
+        }
+      }
+    ],
+    "StartWithWeapons": {},
+    "LockOnWeapons": false,
+    "WorldWeather": "CLEAR",
+    "MiddlePosition": {
+      "X": 1700.05286,
+      "Y": 2665.676,
+      "Z": 45.5649071
+    },
+    "WorldTime": {
+      "Hour": 5,
+      "Second": 0,
+      "Minutes": 0,
+      "MilliSecond": 0
+    }
+  },
+  {
+    "Name": "Dystop Arena",
+    "Description": "You are just a toy for people, they all come here to watch you die dont let them weak you kill your enemys one by one prove yourself and get reward.",
+    "Author": "RaDi",
+    "Type": "DeathMatch",
+    "TextureName": "",
+    "MusicEventEventId": "",
+    "StopMusicCommandEventId": "",
+    "RangeNumber": 150.0,
+    "TimeInMiliSecond": 200000,
+    "SpawnPoints": [
+      {
+        "Heading": 98.53927,
+        "Position": {
+          "X": 2956.835,
+          "Y": -3829.402,
+          "Z": 139.931442,
+          "IsNormalized": false,
+          "IsZero": false
+        }
+      },
+      {
+        "Heading": 36.88029,
+        "Position": {
+          "X": 2926.91187,
+          "Y": -3865.129,
+          "Z": 140.284531,
+          "IsNormalized": false,
+          "IsZero": false
+        }
+      },
+      {
+        "Heading": 83.01715,
+        "Position": {
+          "X": 2896.93652,
+          "Y": -3865.08,
+          "Z": 140.319855,
+          "IsNormalized": false,
+          "IsZero": false
+        }
+      },
+      {
+        "Heading": 45.0869522,
+        "Position": {
+          "X": 2848.22852,
+          "Y": -3847.63672,
+          "Z": 136.047714,
+          "IsNormalized": false,
+          "IsZero": false
+        }
+      },
+      {
+        "Heading": 122.39257,
+        "Position": {
+          "X": 2860.35229,
+          "Y": -3816.04077,
+          "Z": 133.46698,
+          "IsNormalized": false,
+          "IsZero": false
+        }
+      },
+      {
+        "Heading": 115.501732,
+        "Position": {
+          "X": 2806.31665,
+          "Y": -3796.29517,
+          "Z": 138.921539,
+          "IsNormalized": false,
+          "IsZero": false
+        }
+      },
+      {
+        "Heading": 247.738708,
+        "Position": {
+          "X": 2769.61987,
+          "Y": -3838.17139,
+          "Z": 135.016068,
+          "IsNormalized": false,
+          "IsZero": false
+        }
+      },
+      {
+        "Heading": 263.7724,
+        "Position": {
+          "X": 2805.86865,
+          "Y": -3872.31763,
+          "Z": 139.668579,
+          "IsNormalized": false,
+          "IsZero": false
+        }
+      },
+      {
+        "Heading": 129.919815,
+        "Position": {
+          "X": 2868.20215,
+          "Y": -3774.81079,
+          "Z": 134.084244,
+          "IsNormalized": false,
+          "IsZero": false
+        }
+      },
+      {
+        "Heading": 47.05902,
+        "Position": {
+          "X": 2799.602,
+          "Y": -3864.45825,
+          "Z": 140.1742,
+          "IsNormalized": false,
+          "IsZero": false
+        }
+      },
+      {
+        "Heading": 123.48349,
+        "Position": {
+          "X": 2939.35083,
+          "Y": -3761.124,
+          "Z": 140.157379,
+          "IsNormalized": false,
+          "IsZero": false
+        }
+      },
+      {
+        "Heading": 131.606964,
+        "Position": {
+          "X": 2907.35767,
+          "Y": -3731.44653,
+          "Z": 140.677673,
+          "IsNormalized": false,
+          "IsZero": false
+        }
+      }
+    ],
+    "MatchProps": [],
+    "InteriorPropNames": [
+      "Set_Dystopian_07",
+      "Set_Pit_Fence_Closed",
+      "Set_Team_Band_A",
+      "Set_Team_Band_B",
+      "Set_Team_Band_C",
+      "Set_Team_Band_D",
+      "Set_Crowd_A",
+      "Set_Crowd_B",
+      "Set_Crowd_C",
+      "Set_Crowd_D"
+    ],
+    "IPLs": [ "xs_arena_interior" ],
+    "PickupWeapons": [],
+    "StartWithWeapons": {
+      "WEAPON_RAYCARBINE": 200,
+      "WEAPON_RAYPISTOL": 1
+    },
+    "Shape": false,
+    "LockOnWeapons": true,
+    "WorldWeather": "CLEAR",
+    "MiddlePosition": {
+      "X": 2822.25366,
+      "Y": -3824.28,
+      "Z": 133.676346,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    "WorldTime": {
+      "Hour": 0,
+      "Second": 0,
+      "Minutes": 0,
+      "MilliSecond": 0
+    }
+  }
+]

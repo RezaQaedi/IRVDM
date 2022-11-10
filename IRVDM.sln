@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRVDM", "IRVDM\IRVDM.csproj", "{F04191AD-37A1-47F3-A667-2EBBD4476822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRVDMSV", "IRVDMSV\IRVDMSV.csproj", "{F2D04F81-C3F1-4252-872F-6BCCC66F18BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F04191AD-37A1-47F3-A667-2EBBD4476822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04191AD-37A1-47F3-A667-2EBBD4476822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04191AD-37A1-47F3-A667-2EBBD4476822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04191AD-37A1-47F3-A667-2EBBD4476822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2D04F81-C3F1-4252-872F-6BCCC66F18BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D04F81-C3F1-4252-872F-6BCCC66F18BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D04F81-C3F1-4252-872F-6BCCC66F18BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D04F81-C3F1-4252-872F-6BCCC66F18BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44932A54-0F58-4612-AED4-F17576DE86C4}
+	EndGlobalSection
+EndGlobal

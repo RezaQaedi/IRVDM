@@ -1,0 +1,220 @@
+/*
+  *    //Note : IRVDM WILL USE THIS MENUS
+  *    [MUST OF THE VALUS ARE MUST HAVE DONT LEAVE THEM NULL OR EMTY]
+  *{
+  *    Name => Name IRVDM as id
+  *    PlayerPedPos => Player postion
+  *    CameraPos => MainCamera postion
+  *}
+  *
+  *
+  *    //[IRVDM DEVELOPT BY MEHRAD GHAEDI]
+  */
+[
+  {
+    "Name": "DefaultIland",
+    "PlayerPedPos": {
+      "X": -2166.38,
+      "Y": 5195.86,
+      "Z": 16.9
+    },
+    "CameraPos": {
+      "X": -2168.71,
+      "Y": 5198.38,
+      "Z": 17.03
+    },
+    "PlayerPedLookPos": {
+      "X": -2168.71,
+      "Y": 5198.38,
+      "Z": 17.03
+    },
+    "PlayerHeading": 15.58,
+    "CameraRot": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -165.8079
+    },
+    "ChangeLoadOutPos": {
+      "X": -2166.673,
+      "Y": 5196.729,
+      "Z": 17.18626
+    },
+    "PrimaryWeaponObjPos": {
+      "X": -2167.726,
+      "Y": 5195.372,
+      "Z": 17.8034286
+    },
+    "SeconderyWeaponObjPos": {
+      "X": -2167.726,
+      "Y": 5195.347,
+      "Z": 17.3034286
+    },
+    "EquipmentWeaponObjPos": {
+      "X": -2167.726,
+      "Y": 5195.372,
+      "Z": 16.8034286
+    },
+    "LoadotShowPlayPos": {
+      "X": -2168.242,
+      "Y": 5197.048,
+      "Z": 17.35191
+    },
+    "ChangeSkinCameraPos01": {
+      "X": -2168.633,
+      "Y": 5196.95,
+      "Z": 17.69695
+    },
+    "ChangeSkinCameraPos02": {
+      "X": -2167.657,
+      "Y": 5197.05,
+      "Z": 17.60884
+    },
+    "ChangeSkinCameraPos03": {
+      "X": -2166.896,
+      "Y": 5197.184,
+      "Z": 17.4439
+    },
+    "ChangeSkinCameraRot01": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -80.93488
+    },
+    "ChangeSkinCameraRot02": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -80.72754
+    },
+    "ChangeSkinCameraRot03": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -80.59346
+    },
+    "MaxTimeWaitForPlayerToReachChangeSkinPos": 2000,
+    "ChangeSkinPlayerPos": {
+      "X": -2165.775,
+      "Y": 5197.766,
+      "Z": 16.88039
+    },
+    "ChangeSkinPlayerHeding": 112.8288,
+    "PropsHeading": 15.58
+  },
+  {
+    "Name": "Shop01",
+    "PlayerPedPos": {
+      "X": -826.627,
+      "Y": -1070.84644,
+      "Z": 11.35,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    "CameraPos": {
+      "X": -827.9391,
+      "Y": -1072.618,
+      "Z": 12.023118,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    "PlayerPedLookPos": {
+      "X": -827.9391,
+      "Y": -1072.618,
+      "Z": 12.023118,
+      "IsNormalized": false,
+      "IsZero": true
+    },
+    "PlayerHeading": 123.6,
+    "CameraRot": {
+      "X": -3.941827,
+      "Y": 1.06974781E-07,
+      "Z": -59.60671,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    "ChangeLoadOutPos": { //CAMERA WEP 02
+      "X": -827.44,
+      "Y": -1071.37,
+      "Z": 11.5,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    "PrimaryWeaponObjPos": {
+      "X": -825.9,
+      "Y": -1071.611,
+      "Z": 12.367,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    "SeconderyWeaponObjPos": {
+      "X": -825.95,
+      "Y": -1071.611,
+      "Z": 11.867,
+      "IsNormalized": false,
+      "IsZero": true
+    },
+    "EquipmentWeaponObjPos": {
+      "X": -825.9,
+      "Y": -1071.611,
+      "Z": 11.367,
+      "IsNormalized": false,
+      "IsZero": true
+    },
+    "LoadotShowPlayPos": {
+      "X": -827.9391,
+      "Y": -1072.618,
+      "Z": 12.023118, //CAMERA WEP 01
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    "ChangeSkinCameraPos01": {
+      "X": -827.712,
+      "Y": -1074.227,
+      "Z": 12.8381033,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    "ChangeSkinCameraPos02": {
+      "X": -829.3586,
+      "Y": -1073.43616,
+      "Z": 11.5781012,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    "ChangeSkinCameraPos03": {
+      "X": -829.3586,
+      "Y": -1073.43616,
+      "Z": 11.5781012,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    "ChangeSkinCameraRot01": {
+      "X": -13.7097893,
+      "Y": 1.09851534E-07,
+      "Z": 4.4550395,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    "ChangeSkinCameraRot02": {
+      "X": -3.44927859,
+      "Y": 4.276615E-07,
+      "Z": 31.2926064,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    "ChangeSkinCameraRot03": { //[unused]
+      "X": -3.49489474,
+      "Y": 2.13841048E-07,
+      "Z": 31.2943058,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    "MaxTimeWaitForPlayerToReachChangeSkinPos": 2000,
+    "ChangeSkinPlayerPos": {
+      "X": -829.22,
+      "Y": -1071.32,
+      "Z": 11.3337307,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    "ChangeSkinPlayerHeding": 173.31,
+    "PropsHeading": 123.6
+  }
+]

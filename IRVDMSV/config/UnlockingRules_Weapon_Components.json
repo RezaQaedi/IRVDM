@@ -1,0 +1,4932 @@
+[
+  {
+    "TargetWeapon": "weapon_advancedrifle",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_ADVANCEDRIFLE_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ADVANCEDRIFLE_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_advancedrifle",
+    "LableName": "Gold",
+    "ModelName": "2",
+    "Id": "UNLOCKBLE_WEAPON_ADVANCEDRIFLE_TINTS_2",
+    "IdType": "UNLOCKBLE_WEAPON_TINTS",
+    "Type": 0,
+    "UnlockTarget": 400,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_advancedrifle",
+    "LableName": "Platinum",
+    "ModelName": "7",
+    "Id": "UNLOCKBLE_WEAPON_ADVANCEDRIFLE_TINTS_7",
+    "IdType": "UNLOCKBLE_WEAPON_TINTS",
+    "Type": 0,
+    "UnlockTarget": 400,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_advancedrifle",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_ADVANCEDRIFLE_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ADVANCEDRIFLE_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_advancedrifle",
+    "LableName": "Gilded Gun Metal Finish",
+    "ModelName": "COMPONENT_ADVANCEDRIFLE_VARMOD_LUXE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ADVANCEDRIFLE_VARMOD_LUXE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_advancedrifle",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_ADVANCEDRIFLE_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 300,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_advancedrifle",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP",
+    "Id": "UNLOCKBLE_WEAPON_ADVANCEDRIFLE_COMPONENT_AT_AR_SUPP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_advancedrifle",
+    "LableName": "Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_SMALL",
+    "Id": "UNLOCKBLE_WEAPON_ADVANCEDRIFLE_COMPONENT_AT_SCOPE_SMALL",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_appistol",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_APPISTOL_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_APPISTOL_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_appistol",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_APPISTOL_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_APPISTOL_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_appistol",
+    "LableName": "Gilded Gun Metal Finish",
+    "ModelName": "COMPONENT_APPISTOL_VARMOD_LUXE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_APPISTOL_VARMOD_LUXE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_appistol",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_PI_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_APPISTOL_COMPONENT_AT_PI_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_appistol",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_PI_SUPP",
+    "Id": "UNLOCKBLE_WEAPON_APPISTOL_COMPONENT_AT_PI_SUPP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle",
+    "LableName": "Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MACRO",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_COMPONENT_AT_SCOPE_MACRO",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle",
+    "LableName": "Drum Magazine",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_CLIP_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_CLIP_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle",
+    "LableName": "Yusuf Amir Luxury Finish",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_VARMOD_LUXE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_VARMOD_LUXE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle",
+    "LableName": "Grip",
+    "ModelName": "COMPONENT_AT_AR_AFGRIP",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_COMPONENT_AT_AR_AFGRIP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP_02",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_COMPONENT_AT_AR_SUPP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Digital Camo",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_MK2_CAMO",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_MK2_CAMO",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Brushstroke Camo",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_MK2_CAMO_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Woodland Camo",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_MK2_CAMO_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Skull",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_04",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_MK2_CAMO_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Sessanta Nove",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_05",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_MK2_CAMO_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Perseus",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_06",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_MK2_CAMO_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Leopard",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_07",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_MK2_CAMO_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Zebra",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_08",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_MK2_CAMO_08",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Geometric",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_09",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_MK2_CAMO_09",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Boom!",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_10",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_MK2_CAMO_10",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Patriotic",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_IND_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_MK2_CAMO_IND_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_MK2_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_MK2_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Armor Piercing Rounds",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_ARMORPIERCING",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_MK2_CLIP_ARMORPIERCING",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Full Metal Jacket Rounds",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_FMJ",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_MK2_CLIP_FMJ",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Incendiary Rounds",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_INCENDIARY",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_MK2_CLIP_INCENDIARY",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Tracer Rounds",
+    "ModelName": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_TRACER",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTRIFLE_MK2_CLIP_TRACER",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Grip",
+    "ModelName": "COMPONENT_AT_AR_AFGRIP_02",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_MK2_COMPONENT_AT_AR_AFGRIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Default Barrel",
+    "ModelName": "COMPONENT_AT_AR_BARREL_01",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_MK2_COMPONENT_AT_AR_BARREL_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Heavy Barrel",
+    "ModelName": "COMPONENT_AT_AR_BARREL_02",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_MK2_COMPONENT_AT_AR_BARREL_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_MK2_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP_02",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_MK2_COMPONENT_AT_AR_SUPP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Flat Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_01",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_MK2_COMPONENT_AT_MUZZLE_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Tactical Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_02",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_MK2_COMPONENT_AT_MUZZLE_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Fat-End Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_03",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_MK2_COMPONENT_AT_MUZZLE_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Precision Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_04",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_MK2_COMPONENT_AT_MUZZLE_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Heavy Duty Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_05",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_MK2_COMPONENT_AT_MUZZLE_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Slanted Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_06",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_MK2_COMPONENT_AT_MUZZLE_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Split-End Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_07",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_MK2_COMPONENT_AT_MUZZLE_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Small Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MACRO_MK2",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_MK2_COMPONENT_AT_SCOPE_MACRO_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Large Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MEDIUM_MK2",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_MK2_COMPONENT_AT_SCOPE_MEDIUM_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultrifle_mk2",
+    "LableName": "Holographic Sight",
+    "ModelName": "COMPONENT_AT_SIGHTS",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTRIFLE_MK2_COMPONENT_AT_SIGHTS",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultshotgun",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_ASSAULTSHOTGUN_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTSHOTGUN_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultshotgun",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_ASSAULTSHOTGUN_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTSHOTGUN_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultshotgun",
+    "LableName": "Grip",
+    "ModelName": "COMPONENT_AT_AR_AFGRIP",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTSHOTGUN_COMPONENT_AT_AR_AFGRIP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultshotgun",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTSHOTGUN_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultshotgun",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTSHOTGUN_COMPONENT_AT_AR_SUPP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultsmg",
+    "LableName": "Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MACRO",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTSMG_COMPONENT_AT_SCOPE_MACRO",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultsmg",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_ASSAULTSMG_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTSMG_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultsmg",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_ASSAULTSMG_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTSMG_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultsmg",
+    "LableName": "Yusuf Amir Luxury Finish",
+    "ModelName": "COMPONENT_ASSAULTSMG_VARMOD_LOWRIDER",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_ASSAULTSMG_VARMOD_LOWRIDER",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultsmg",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTSMG_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_assaultsmg",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP_02",
+    "Id": "UNLOCKBLE_WEAPON_ASSAULTSMG_COMPONENT_AT_AR_SUPP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle",
+    "LableName": "Grip",
+    "ModelName": "COMPONENT_AT_AR_AFGRIP",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_COMPONENT_AT_AR_AFGRIP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_COMPONENT_AT_AR_SUPP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle",
+    "LableName": "Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_SMALL",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_COMPONENT_AT_SCOPE_SMALL",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle",
+    "LableName": "Gilded Gun Metal Finish",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_VARMOD_LOW",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_VARMOD_LOW",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Grip",
+    "ModelName": "COMPONENT_AT_AR_AFGRIP_02",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_MK2_COMPONENT_AT_AR_AFGRIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_MK2_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_MK2_COMPONENT_AT_AR_SUPP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Default Barrel",
+    "ModelName": "COMPONENT_AT_BP_BARREL_01",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_MK2_COMPONENT_AT_BP_BARREL_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Heavy Barrel",
+    "ModelName": "COMPONENT_AT_BP_BARREL_02",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_MK2_COMPONENT_AT_BP_BARREL_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Flat Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_01",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_MK2_COMPONENT_AT_MUZZLE_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Tactical Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_02",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_MK2_COMPONENT_AT_MUZZLE_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Fat-End Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_03",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_MK2_COMPONENT_AT_MUZZLE_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Precision Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_04",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_MK2_COMPONENT_AT_MUZZLE_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Heavy Duty Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_05",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_MK2_COMPONENT_AT_MUZZLE_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Slanted Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_06",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_MK2_COMPONENT_AT_MUZZLE_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Split-End Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_07",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_MK2_COMPONENT_AT_MUZZLE_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Small Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MACRO_02_MK2",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_MK2_COMPONENT_AT_SCOPE_MACRO_02_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Medium Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_SMALL_MK2",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_MK2_COMPONENT_AT_SCOPE_SMALL_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Holographic Sight",
+    "ModelName": "COMPONENT_AT_SIGHTS",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPRIFLE_MK2_COMPONENT_AT_SIGHTS",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Digital Camo",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_MK2_CAMO",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_MK2_CAMO",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Brushstroke Camo",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_MK2_CAMO_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_MK2_CAMO_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Woodland Camo",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_MK2_CAMO_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_MK2_CAMO_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Skull",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_MK2_CAMO_04",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_MK2_CAMO_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Sessanta Nove",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_MK2_CAMO_05",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_MK2_CAMO_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Perseus",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_MK2_CAMO_06",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_MK2_CAMO_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Leopard",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_MK2_CAMO_07",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_MK2_CAMO_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Zebra",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_MK2_CAMO_08",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_MK2_CAMO_08",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Geometric",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_MK2_CAMO_09",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_MK2_CAMO_09",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Boom!",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_MK2_CAMO_10",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_MK2_CAMO_10",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Patriotic",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_MK2_CAMO_IND_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_MK2_CAMO_IND_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_MK2_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_MK2_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_MK2_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_MK2_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Armor Piercing Rounds",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_MK2_CLIP_ARMORPIERCING",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_MK2_CLIP_ARMORPIERCING",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Full Metal Jacket Rounds",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_MK2_CLIP_FMJ",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_MK2_CLIP_FMJ",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Incendiary Rounds",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_MK2_CLIP_INCENDIARY",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_MK2_CLIP_INCENDIARY",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpuprifle_mk2",
+    "LableName": "Tracer Rounds",
+    "ModelName": "COMPONENT_BULLPUPRIFLE_MK2_CLIP_TRACER",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_BULLPUPRIFLE_MK2_CLIP_TRACER",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpupshotgun",
+    "LableName": "Grip",
+    "ModelName": "COMPONENT_AT_AR_AFGRIP",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPSHOTGUN_COMPONENT_AT_AR_AFGRIP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpupshotgun",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPSHOTGUN_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_bullpupshotgun",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP_02",
+    "Id": "UNLOCKBLE_WEAPON_BULLPUPSHOTGUN_COMPONENT_AT_AR_SUPP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_CARBINERIFLE_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_CARBINERIFLE_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle",
+    "LableName": "Drum Magazine",
+    "ModelName": "COMPONENT_CARBINERIFLE_CLIP_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_CLIP_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle",
+    "LableName": "Yusuf Amir Luxury Finish",
+    "ModelName": "COMPONENT_CARBINERIFLE_VARMOD_LUXE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_VARMOD_LUXE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle",
+    "LableName": "Grip",
+    "ModelName": "COMPONENT_AT_AR_AFGRIP",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_COMPONENT_AT_AR_AFGRIP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_COMPONENT_AT_AR_SUPP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle",
+    "LableName": "Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MEDIUM",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_COMPONENT_AT_SCOPE_MEDIUM",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Grip",
+    "ModelName": "COMPONENT_AT_AR_AFGRIP_02",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_MK2_COMPONENT_AT_AR_AFGRIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_MK2_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_MK2_COMPONENT_AT_AR_SUPP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Default Barrel",
+    "ModelName": "COMPONENT_AT_CR_BARREL_01",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_MK2_COMPONENT_AT_CR_BARREL_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Heavy Barrel",
+    "ModelName": "COMPONENT_AT_CR_BARREL_02",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_MK2_COMPONENT_AT_CR_BARREL_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Flat Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_01",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_MK2_COMPONENT_AT_MUZZLE_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Tactical Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_02",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_MK2_COMPONENT_AT_MUZZLE_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Fat-End Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_03",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_MK2_COMPONENT_AT_MUZZLE_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Precision Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_04",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_MK2_COMPONENT_AT_MUZZLE_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Heavy Duty Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_05",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_MK2_COMPONENT_AT_MUZZLE_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Slanted Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_06",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_MK2_COMPONENT_AT_MUZZLE_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Split-End Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_07",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_MK2_COMPONENT_AT_MUZZLE_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Small Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MACRO_MK2",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_MK2_COMPONENT_AT_SCOPE_MACRO_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Large Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MEDIUM_MK2",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_MK2_COMPONENT_AT_SCOPE_MEDIUM_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Holographic Sight",
+    "ModelName": "COMPONENT_AT_SIGHTS",
+    "Id": "UNLOCKBLE_WEAPON_CARBINERIFLE_MK2_COMPONENT_AT_SIGHTS",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Digital Camo",
+    "ModelName": "COMPONENT_CARBINERIFLE_MK2_CAMO",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_MK2_CAMO",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Brushstroke Camo",
+    "ModelName": "COMPONENT_CARBINERIFLE_MK2_CAMO_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_MK2_CAMO_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Woodland Camo",
+    "ModelName": "COMPONENT_CARBINERIFLE_MK2_CAMO_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_MK2_CAMO_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Skull",
+    "ModelName": "COMPONENT_CARBINERIFLE_MK2_CAMO_04",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_MK2_CAMO_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Sessanta Nove",
+    "ModelName": "COMPONENT_CARBINERIFLE_MK2_CAMO_05",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_MK2_CAMO_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Perseus",
+    "ModelName": "COMPONENT_CARBINERIFLE_MK2_CAMO_06",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_MK2_CAMO_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Leopard",
+    "ModelName": "COMPONENT_CARBINERIFLE_MK2_CAMO_07",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_MK2_CAMO_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Zebra",
+    "ModelName": "COMPONENT_CARBINERIFLE_MK2_CAMO_08",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_MK2_CAMO_08",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Geometric",
+    "ModelName": "COMPONENT_CARBINERIFLE_MK2_CAMO_09",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_MK2_CAMO_09",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Boom!",
+    "ModelName": "COMPONENT_CARBINERIFLE_MK2_CAMO_10",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_MK2_CAMO_10",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Patriotic",
+    "ModelName": "COMPONENT_CARBINERIFLE_MK2_CAMO_IND_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_MK2_CAMO_IND_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_CARBINERIFLE_MK2_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_MK2_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_CARBINERIFLE_MK2_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_MK2_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Armor Piercing Rounds",
+    "ModelName": "COMPONENT_CARBINERIFLE_MK2_CLIP_ARMORPIERCING",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_MK2_CLIP_ARMORPIERCING",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Full Metal Jacket Rounds",
+    "ModelName": "COMPONENT_CARBINERIFLE_MK2_CLIP_FMJ",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_MK2_CLIP_FMJ",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Incendiary Rounds",
+    "ModelName": "COMPONENT_CARBINERIFLE_MK2_CLIP_INCENDIARY",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_MK2_CLIP_INCENDIARY",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_carbinerifle_mk2",
+    "LableName": "Tracer Rounds",
+    "ModelName": "COMPONENT_CARBINERIFLE_MK2_CLIP_TRACER",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_CARBINERIFLE_MK2_CLIP_TRACER",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_COMBATMG_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_COMBATMG_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg",
+    "LableName": "Grip",
+    "ModelName": "COMPONENT_AT_AR_AFGRIP",
+    "Id": "UNLOCKBLE_WEAPON_COMBATMG_COMPONENT_AT_AR_AFGRIP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg",
+    "LableName": "Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MEDIUM",
+    "Id": "UNLOCKBLE_WEAPON_COMBATMG_COMPONENT_AT_SCOPE_MEDIUM",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Grip",
+    "ModelName": "COMPONENT_AT_AR_AFGRIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMBATMG_MK2_COMPONENT_AT_AR_AFGRIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Default Barrel",
+    "ModelName": "COMPONENT_AT_MG_BARREL_01",
+    "Id": "UNLOCKBLE_WEAPON_COMBATMG_MK2_COMPONENT_AT_MG_BARREL_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Heavy Barrel",
+    "ModelName": "COMPONENT_AT_MG_BARREL_02",
+    "Id": "UNLOCKBLE_WEAPON_COMBATMG_MK2_COMPONENT_AT_MG_BARREL_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Flat Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_01",
+    "Id": "UNLOCKBLE_WEAPON_COMBATMG_MK2_COMPONENT_AT_MUZZLE_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Tactical Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_02",
+    "Id": "UNLOCKBLE_WEAPON_COMBATMG_MK2_COMPONENT_AT_MUZZLE_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Fat-End Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_03",
+    "Id": "UNLOCKBLE_WEAPON_COMBATMG_MK2_COMPONENT_AT_MUZZLE_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Precision Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_04",
+    "Id": "UNLOCKBLE_WEAPON_COMBATMG_MK2_COMPONENT_AT_MUZZLE_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Heavy Duty Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_05",
+    "Id": "UNLOCKBLE_WEAPON_COMBATMG_MK2_COMPONENT_AT_MUZZLE_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Slanted Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_06",
+    "Id": "UNLOCKBLE_WEAPON_COMBATMG_MK2_COMPONENT_AT_MUZZLE_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Split-End Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_07",
+    "Id": "UNLOCKBLE_WEAPON_COMBATMG_MK2_COMPONENT_AT_MUZZLE_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Large Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MEDIUM_MK2",
+    "Id": "UNLOCKBLE_WEAPON_COMBATMG_MK2_COMPONENT_AT_SCOPE_MEDIUM_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Medium Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_SMALL_MK2",
+    "Id": "UNLOCKBLE_WEAPON_COMBATMG_MK2_COMPONENT_AT_SCOPE_SMALL_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Holographic Sight",
+    "ModelName": "COMPONENT_AT_SIGHTS",
+    "Id": "UNLOCKBLE_WEAPON_COMBATMG_MK2_COMPONENT_AT_SIGHTS",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Digital Camo",
+    "ModelName": "COMPONENT_COMBATMG_MK2_CAMO",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_MK2_CAMO",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Brushstroke Camo",
+    "ModelName": "COMPONENT_COMBATMG_MK2_CAMO_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_MK2_CAMO_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Woodland Camo",
+    "ModelName": "COMPONENT_COMBATMG_MK2_CAMO_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_MK2_CAMO_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Skull",
+    "ModelName": "COMPONENT_COMBATMG_MK2_CAMO_04",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_MK2_CAMO_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Sessanta Nove",
+    "ModelName": "COMPONENT_COMBATMG_MK2_CAMO_05",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_MK2_CAMO_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Perseus",
+    "ModelName": "COMPONENT_COMBATMG_MK2_CAMO_06",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_MK2_CAMO_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Leopard",
+    "ModelName": "COMPONENT_COMBATMG_MK2_CAMO_07",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_MK2_CAMO_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Zebra",
+    "ModelName": "COMPONENT_COMBATMG_MK2_CAMO_08",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_MK2_CAMO_08",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Geometric",
+    "ModelName": "COMPONENT_COMBATMG_MK2_CAMO_09",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_MK2_CAMO_09",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Boom!",
+    "ModelName": "COMPONENT_COMBATMG_MK2_CAMO_10",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_MK2_CAMO_10",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Patriotic",
+    "ModelName": "COMPONENT_COMBATMG_MK2_CAMO_IND_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_MK2_CAMO_IND_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_COMBATMG_MK2_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_MK2_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_COMBATMG_MK2_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_MK2_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Armor Piercing Rounds",
+    "ModelName": "COMPONENT_COMBATMG_MK2_CLIP_ARMORPIERCING",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_MK2_CLIP_ARMORPIERCING",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Full Metal Jacket Rounds",
+    "ModelName": "COMPONENT_COMBATMG_MK2_CLIP_FMJ",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_MK2_CLIP_FMJ",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Incendiary Rounds",
+    "ModelName": "COMPONENT_COMBATMG_MK2_CLIP_INCENDIARY",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_MK2_CLIP_INCENDIARY",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatmg_mk2",
+    "LableName": "Tracer Rounds",
+    "ModelName": "COMPONENT_COMBATMG_MK2_CLIP_TRACER",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATMG_MK2_CLIP_TRACER",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatpdw",
+    "LableName": "Grip",
+    "ModelName": "COMPONENT_AT_AR_AFGRIP",
+    "Id": "UNLOCKBLE_WEAPON_COMBATPDW_COMPONENT_AT_AR_AFGRIP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatpdw",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_COMBATPDW_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatpdw",
+    "LableName": "Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_SMALL",
+    "Id": "UNLOCKBLE_WEAPON_COMBATPDW_COMPONENT_AT_SCOPE_SMALL",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatpdw",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_COMBATPDW_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATPDW_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatpdw",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_COMBATPDW_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATPDW_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatpdw",
+    "LableName": "Drum Magazine",
+    "ModelName": "COMPONENT_COMBATPDW_CLIP_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATPDW_CLIP_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatpistol",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_COMBATPISTOL_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATPISTOL_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatpistol",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_COMBATPISTOL_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATPISTOL_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatpistol",
+    "LableName": "Yusuf Amir Luxury Finish",
+    "ModelName": "COMPONENT_COMBATPISTOL_VARMOD_LOWRIDER",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMBATPISTOL_VARMOD_LOWRIDER",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatpistol",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_PI_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_COMBATPISTOL_COMPONENT_AT_PI_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_combatpistol",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_PI_SUPP",
+    "Id": "UNLOCKBLE_WEAPON_COMBATPISTOL_COMPONENT_AT_PI_SUPP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_compactrifle",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_COMPACTRIFLE_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMPACTRIFLE_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_compactrifle",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_COMPACTRIFLE_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMPACTRIFLE_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_compactrifle",
+    "LableName": "Drum Magazine",
+    "ModelName": "COMPONENT_COMPACTRIFLE_CLIP_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_COMPACTRIFLE_CLIP_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_grenadelauncher",
+    "LableName": "Grip",
+    "ModelName": "COMPONENT_AT_AR_AFGRIP",
+    "Id": "UNLOCKBLE_WEAPON_GRENADELAUNCHER_COMPONENT_AT_AR_AFGRIP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_grenadelauncher",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_GRENADELAUNCHER_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_grenadelauncher",
+    "LableName": "Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_SMALL",
+    "Id": "UNLOCKBLE_WEAPON_GRENADELAUNCHER_COMPONENT_AT_SCOPE_SMALL",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_gusenberg",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_GUSENBERG_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_GUSENBERG_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_gusenberg",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_GUSENBERG_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_GUSENBERG_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavypistol",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_PI_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_HEAVYPISTOL_COMPONENT_AT_PI_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavypistol",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_PI_SUPP",
+    "Id": "UNLOCKBLE_WEAPON_HEAVYPISTOL_COMPONENT_AT_PI_SUPP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavypistol",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_HEAVYPISTOL_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYPISTOL_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavypistol",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_HEAVYPISTOL_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYPISTOL_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavypistol",
+    "LableName": "Etched Wood Grip Finish",
+    "ModelName": "COMPONENT_HEAVYPISTOL_VARMOD_LUXE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYPISTOL_VARMOD_LUXE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavyshotgun",
+    "LableName": "Grip",
+    "ModelName": "COMPONENT_AT_AR_AFGRIP",
+    "Id": "UNLOCKBLE_WEAPON_HEAVYSHOTGUN_COMPONENT_AT_AR_AFGRIP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavyshotgun",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_HEAVYSHOTGUN_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavyshotgun",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP_02",
+    "Id": "UNLOCKBLE_WEAPON_HEAVYSHOTGUN_COMPONENT_AT_AR_SUPP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavyshotgun",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_HEAVYSHOTGUN_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSHOTGUN_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavyshotgun",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_HEAVYSHOTGUN_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSHOTGUN_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavyshotgun",
+    "LableName": "Drum Magazine",
+    "ModelName": "COMPONENT_HEAVYSHOTGUN_CLIP_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSHOTGUN_CLIP_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper",
+    "LableName": "Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_LARGE",
+    "Id": "UNLOCKBLE_WEAPON_HEAVYSNIPER_COMPONENT_AT_SCOPE_LARGE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper",
+    "LableName": "Advanced Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MAX",
+    "Id": "UNLOCKBLE_WEAPON_HEAVYSNIPER_COMPONENT_AT_SCOPE_MAX",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_08",
+    "Id": "UNLOCKBLE_WEAPON_HEAVYSNIPER_MK2_COMPONENT_AT_MUZZLE_08",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Bell-End Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_09",
+    "Id": "UNLOCKBLE_WEAPON_HEAVYSNIPER_MK2_COMPONENT_AT_MUZZLE_09",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Zoom Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_LARGE_MK2",
+    "Id": "UNLOCKBLE_WEAPON_HEAVYSNIPER_MK2_COMPONENT_AT_SCOPE_LARGE_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Advanced Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MAX",
+    "Id": "UNLOCKBLE_WEAPON_HEAVYSNIPER_MK2_COMPONENT_AT_SCOPE_MAX",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Night Vision Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_NV",
+    "Id": "UNLOCKBLE_WEAPON_HEAVYSNIPER_MK2_COMPONENT_AT_SCOPE_NV",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Thermal Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_THERMAL",
+    "Id": "UNLOCKBLE_WEAPON_HEAVYSNIPER_MK2_COMPONENT_AT_SCOPE_THERMAL",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Default Barrel",
+    "ModelName": "COMPONENT_AT_SR_BARREL_01",
+    "Id": "UNLOCKBLE_WEAPON_HEAVYSNIPER_MK2_COMPONENT_AT_SR_BARREL_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Heavy Barrel",
+    "ModelName": "COMPONENT_AT_SR_BARREL_02",
+    "Id": "UNLOCKBLE_WEAPON_HEAVYSNIPER_MK2_COMPONENT_AT_SR_BARREL_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_SR_SUPP_03",
+    "Id": "UNLOCKBLE_WEAPON_HEAVYSNIPER_MK2_COMPONENT_AT_SR_SUPP_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Digital Camo",
+    "ModelName": "COMPONENT_HEAVYSNIPER_MK2_CAMO",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSNIPER_MK2_CAMO",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Brushstroke Camo",
+    "ModelName": "COMPONENT_HEAVYSNIPER_MK2_CAMO_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSNIPER_MK2_CAMO_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Woodland Camo",
+    "ModelName": "COMPONENT_HEAVYSNIPER_MK2_CAMO_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSNIPER_MK2_CAMO_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Skull",
+    "ModelName": "COMPONENT_HEAVYSNIPER_MK2_CAMO_04",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSNIPER_MK2_CAMO_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Sessanta Nove",
+    "ModelName": "COMPONENT_HEAVYSNIPER_MK2_CAMO_05",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSNIPER_MK2_CAMO_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Perseus",
+    "ModelName": "COMPONENT_HEAVYSNIPER_MK2_CAMO_06",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSNIPER_MK2_CAMO_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Leopard",
+    "ModelName": "COMPONENT_HEAVYSNIPER_MK2_CAMO_07",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSNIPER_MK2_CAMO_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Zebra",
+    "ModelName": "COMPONENT_HEAVYSNIPER_MK2_CAMO_08",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSNIPER_MK2_CAMO_08",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Geometric",
+    "ModelName": "COMPONENT_HEAVYSNIPER_MK2_CAMO_09",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSNIPER_MK2_CAMO_09",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Boom!",
+    "ModelName": "COMPONENT_HEAVYSNIPER_MK2_CAMO_10",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSNIPER_MK2_CAMO_10",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Patriotic",
+    "ModelName": "COMPONENT_HEAVYSNIPER_MK2_CAMO_IND_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSNIPER_MK2_CAMO_IND_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_HEAVYSNIPER_MK2_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSNIPER_MK2_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_HEAVYSNIPER_MK2_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSNIPER_MK2_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Armor Piercing Rounds",
+    "ModelName": "COMPONENT_HEAVYSNIPER_MK2_CLIP_ARMORPIERCING",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSNIPER_MK2_CLIP_ARMORPIERCING",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Explosive Rounds",
+    "ModelName": "COMPONENT_HEAVYSNIPER_MK2_CLIP_EXPLOSIVE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSNIPER_MK2_CLIP_EXPLOSIVE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Full Metal Jacket Rounds",
+    "ModelName": "COMPONENT_HEAVYSNIPER_MK2_CLIP_FMJ",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSNIPER_MK2_CLIP_FMJ",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_heavysniper_mk2",
+    "LableName": "Incendiary Rounds",
+    "ModelName": "COMPONENT_HEAVYSNIPER_MK2_CLIP_INCENDIARY",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_HEAVYSNIPER_MK2_CLIP_INCENDIARY",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_knuckle",
+    "LableName": "The Ballas",
+    "ModelName": "COMPONENT_KNUCKLE_VARMOD_BALLAS",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_KNUCKLE_VARMOD_BALLAS",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_knuckle",
+    "LableName": "Base Model",
+    "ModelName": "COMPONENT_KNUCKLE_VARMOD_BASE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_KNUCKLE_VARMOD_BASE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_knuckle",
+    "LableName": "The Rock",
+    "ModelName": "COMPONENT_KNUCKLE_VARMOD_DIAMOND",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_KNUCKLE_VARMOD_DIAMOND",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_knuckle",
+    "LableName": "The Hustler",
+    "ModelName": "COMPONENT_KNUCKLE_VARMOD_DOLLAR",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_KNUCKLE_VARMOD_DOLLAR",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_knuckle",
+    "LableName": "The Hater",
+    "ModelName": "COMPONENT_KNUCKLE_VARMOD_HATE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_KNUCKLE_VARMOD_HATE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_knuckle",
+    "LableName": "The King",
+    "ModelName": "COMPONENT_KNUCKLE_VARMOD_KING",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_KNUCKLE_VARMOD_KING",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_knuckle",
+    "LableName": "The Lover",
+    "ModelName": "COMPONENT_KNUCKLE_VARMOD_LOVE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_KNUCKLE_VARMOD_LOVE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_knuckle",
+    "LableName": "The Pimp",
+    "ModelName": "COMPONENT_KNUCKLE_VARMOD_PIMP",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_KNUCKLE_VARMOD_PIMP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_knuckle",
+    "LableName": "The Player",
+    "ModelName": "COMPONENT_KNUCKLE_VARMOD_PLAYER",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_KNUCKLE_VARMOD_PLAYER",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_knuckle",
+    "LableName": "The Vagos",
+    "ModelName": "COMPONENT_KNUCKLE_VARMOD_VAGOS",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_KNUCKLE_VARMOD_VAGOS",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_machinepistol",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_PI_SUPP",
+    "Id": "UNLOCKBLE_WEAPON_MACHINEPISTOL_COMPONENT_AT_PI_SUPP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_machinepistol",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_MACHINEPISTOL_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MACHINEPISTOL_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_machinepistol",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_MACHINEPISTOL_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MACHINEPISTOL_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_machinepistol",
+    "LableName": "Drum Magazine",
+    "ModelName": "COMPONENT_MACHINEPISTOL_CLIP_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MACHINEPISTOL_CLIP_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle",
+    "LableName": "Grip",
+    "ModelName": "COMPONENT_AT_AR_AFGRIP",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_COMPONENT_AT_AR_AFGRIP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_COMPONENT_AT_AR_SUPP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle",
+    "LableName": "Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_LARGE_FIXED_ZOOM",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_COMPONENT_AT_SCOPE_LARGE_FIXED_ZOOM",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle",
+    "LableName": "Yusuf Amir Luxury Finish",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_VARMOD_LUXE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_VARMOD_LUXE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Grip",
+    "ModelName": "COMPONENT_AT_AR_AFGRIP_02",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_MK2_COMPONENT_AT_AR_AFGRIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_MK2_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_MK2_COMPONENT_AT_AR_SUPP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Default Barrel",
+    "ModelName": "COMPONENT_AT_MRFL_BARREL_01",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_MK2_COMPONENT_AT_MRFL_BARREL_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Heavy Barrel",
+    "ModelName": "COMPONENT_AT_MRFL_BARREL_02",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_MK2_COMPONENT_AT_MRFL_BARREL_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Flat Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_01",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_MK2_COMPONENT_AT_MUZZLE_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Tactical Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_02",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_MK2_COMPONENT_AT_MUZZLE_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Fat-End Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_03",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_MK2_COMPONENT_AT_MUZZLE_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Precision Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_04",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_MK2_COMPONENT_AT_MUZZLE_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Heavy Duty Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_05",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_MK2_COMPONENT_AT_MUZZLE_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Slanted Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_06",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_MK2_COMPONENT_AT_MUZZLE_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Split-End Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_07",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_MK2_COMPONENT_AT_MUZZLE_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Zoom Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_LARGE_FIXED_ZOOM_MK2",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_MK2_COMPONENT_AT_SCOPE_LARGE_FIXED_ZOOM_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Large Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MEDIUM_MK2",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_MK2_COMPONENT_AT_SCOPE_MEDIUM_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Holographic Sight",
+    "ModelName": "COMPONENT_AT_SIGHTS",
+    "Id": "UNLOCKBLE_WEAPON_MARKSMANRIFLE_MK2_COMPONENT_AT_SIGHTS",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Digital Camo",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_MK2_CAMO",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_MK2_CAMO",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Brushstroke Camo",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_MK2_CAMO_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_MK2_CAMO_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Woodland Camo",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_MK2_CAMO_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_MK2_CAMO_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Skull",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_MK2_CAMO_04",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_MK2_CAMO_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Sessanta Nove",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_MK2_CAMO_05",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_MK2_CAMO_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Perseus",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_MK2_CAMO_06",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_MK2_CAMO_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Leopard",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_MK2_CAMO_07",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_MK2_CAMO_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Zebra",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_MK2_CAMO_08",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_MK2_CAMO_08",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Geometric",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_MK2_CAMO_09",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_MK2_CAMO_09",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Boom!",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_MK2_CAMO_10",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_MK2_CAMO_10",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_MK2_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_MK2_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_MK2_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_MK2_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Armor Piercing Rounds",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_MK2_CLIP_ARMORPIERCING",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_MK2_CLIP_ARMORPIERCING",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Full Metal Jacket Rounds",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_MK2_CLIP_FMJ",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_MK2_CLIP_FMJ",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Incendiary Rounds",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_MK2_CLIP_INCENDIARY",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_MK2_CLIP_INCENDIARY",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_marksmanrifle_mk2",
+    "LableName": "Tracer Rounds",
+    "ModelName": "COMPONENT_MARKSMANRIFLE_MK2_CLIP_TRACER",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MARKSMANRIFLE_MK2_CLIP_TRACER",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_mg",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_MG_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MG_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_mg",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_MG_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MG_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_mg",
+    "LableName": "Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_SMALL_02",
+    "Id": "UNLOCKBLE_WEAPON_MG_COMPONENT_AT_SCOPE_SMALL_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_mg",
+    "LableName": "Yusuf Amir Luxury Finish",
+    "ModelName": "COMPONENT_MG_VARMOD_LOWRIDER",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MG_VARMOD_LOWRIDER",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_microsmg",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_MICROSMG_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MICROSMG_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_microsmg",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_MICROSMG_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MICROSMG_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_microsmg",
+    "LableName": "Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MACRO",
+    "Id": "UNLOCKBLE_WEAPON_MICROSMG_COMPONENT_AT_SCOPE_MACRO",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_microsmg",
+    "LableName": "Yusuf Amir Luxury Finish",
+    "ModelName": "COMPONENT_MICROSMG_VARMOD_LUXE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MICROSMG_VARMOD_LUXE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_microsmg",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP_02",
+    "Id": "UNLOCKBLE_WEAPON_MICROSMG_COMPONENT_AT_AR_SUPP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_microsmg",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_PI_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_MICROSMG_COMPONENT_AT_PI_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_minismg",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_MINISMG_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MINISMG_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_minismg",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_MINISMG_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_MINISMG_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_PISTOL_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_PISTOL_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol",
+    "LableName": "Yusuf Amir Luxury Finish",
+    "ModelName": "COMPONENT_PISTOL_VARMOD_LUXE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_VARMOD_LUXE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_PI_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_PISTOL_COMPONENT_AT_PI_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_PI_SUPP_02",
+    "Id": "UNLOCKBLE_WEAPON_PISTOL_COMPONENT_AT_PI_SUPP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol50",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_PISTOL50_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL50_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol50",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_PISTOL50_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL50_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol50",
+    "LableName": "Platinum Pearl Deluxe Finish",
+    "ModelName": "COMPONENT_PISTOL50_VARMOD_LUXE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL50_VARMOD_LUXE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol50",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP_02",
+    "Id": "UNLOCKBLE_WEAPON_PISTOL50_COMPONENT_AT_AR_SUPP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol50",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_PI_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_PISTOL50_COMPONENT_AT_PI_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Compensator",
+    "ModelName": "COMPONENT_AT_PI_COMP",
+    "Id": "UNLOCKBLE_WEAPON_PISTOL_MK2_COMPONENT_AT_PI_COMP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_PI_FLSH_02",
+    "Id": "UNLOCKBLE_WEAPON_PISTOL_MK2_COMPONENT_AT_PI_FLSH_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Mounted Scope",
+    "ModelName": "COMPONENT_AT_PI_RAIL",
+    "Id": "UNLOCKBLE_WEAPON_PISTOL_MK2_COMPONENT_AT_PI_RAIL",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_PI_SUPP_02",
+    "Id": "UNLOCKBLE_WEAPON_PISTOL_MK2_COMPONENT_AT_PI_SUPP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Digital Camo",
+    "ModelName": "COMPONENT_PISTOL_MK2_CAMO",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_MK2_CAMO",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Brushstroke Camo",
+    "ModelName": "COMPONENT_PISTOL_MK2_CAMO_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_MK2_CAMO_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Woodland Camo",
+    "ModelName": "COMPONENT_PISTOL_MK2_CAMO_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_MK2_CAMO_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Skull",
+    "ModelName": "COMPONENT_PISTOL_MK2_CAMO_04",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_MK2_CAMO_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Sessanta Nove",
+    "ModelName": "COMPONENT_PISTOL_MK2_CAMO_05",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_MK2_CAMO_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Perseus",
+    "ModelName": "COMPONENT_PISTOL_MK2_CAMO_06",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_MK2_CAMO_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Leopard",
+    "ModelName": "COMPONENT_PISTOL_MK2_CAMO_07",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_MK2_CAMO_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Zebra",
+    "ModelName": "COMPONENT_PISTOL_MK2_CAMO_08",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_MK2_CAMO_08",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Geometric",
+    "ModelName": "COMPONENT_PISTOL_MK2_CAMO_09",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_MK2_CAMO_09",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Boom!",
+    "ModelName": "COMPONENT_PISTOL_MK2_CAMO_10",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_MK2_CAMO_10",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Patriotic",
+    "ModelName": "COMPONENT_PISTOL_MK2_CAMO_IND_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_MK2_CAMO_IND_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_PISTOL_MK2_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_MK2_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_PISTOL_MK2_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_MK2_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Full Metal Jacket Rounds",
+    "ModelName": "COMPONENT_PISTOL_MK2_CLIP_FMJ",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_MK2_CLIP_FMJ",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Hollow Point Rounds",
+    "ModelName": "COMPONENT_PISTOL_MK2_CLIP_HOLLOWPOINT",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_MK2_CLIP_HOLLOWPOINT",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Incendiary Rounds",
+    "ModelName": "COMPONENT_PISTOL_MK2_CLIP_INCENDIARY",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_MK2_CLIP_INCENDIARY",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pistol_mk2",
+    "LableName": "Tracer Rounds",
+    "ModelName": "COMPONENT_PISTOL_MK2_CLIP_TRACER",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PISTOL_MK2_CLIP_TRACER",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_SR_SUPP",
+    "Id": "UNLOCKBLE_WEAPON_PUMPSHOTGUN_COMPONENT_AT_SR_SUPP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun",
+    "LableName": "Yusuf Amir Luxury Finish",
+    "ModelName": "COMPONENT_PUMPSHOTGUN_VARMOD_LOWRIDER",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PUMPSHOTGUN_VARMOD_LOWRIDER",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_PUMPSHOTGUN_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_PUMPSHOTGUN_MK2_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_08",
+    "Id": "UNLOCKBLE_WEAPON_PUMPSHOTGUN_MK2_COMPONENT_AT_MUZZLE_08",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Small Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MACRO_MK2",
+    "Id": "UNLOCKBLE_WEAPON_PUMPSHOTGUN_MK2_COMPONENT_AT_SCOPE_MACRO_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Medium Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_SMALL_MK2",
+    "Id": "UNLOCKBLE_WEAPON_PUMPSHOTGUN_MK2_COMPONENT_AT_SCOPE_SMALL_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Holographic Sight",
+    "ModelName": "COMPONENT_AT_SIGHTS",
+    "Id": "UNLOCKBLE_WEAPON_PUMPSHOTGUN_MK2_COMPONENT_AT_SIGHTS",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_SR_SUPP_03",
+    "Id": "UNLOCKBLE_WEAPON_PUMPSHOTGUN_MK2_COMPONENT_AT_SR_SUPP_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Digital Camo",
+    "ModelName": "COMPONENT_PUMPSHOTGUN_MK2_CAMO",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PUMPSHOTGUN_MK2_CAMO",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Brushstroke Camo",
+    "ModelName": "COMPONENT_PUMPSHOTGUN_MK2_CAMO_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PUMPSHOTGUN_MK2_CAMO_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Woodland Camo",
+    "ModelName": "COMPONENT_PUMPSHOTGUN_MK2_CAMO_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PUMPSHOTGUN_MK2_CAMO_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Skull",
+    "ModelName": "COMPONENT_PUMPSHOTGUN_MK2_CAMO_04",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PUMPSHOTGUN_MK2_CAMO_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Sessanta Nove",
+    "ModelName": "COMPONENT_PUMPSHOTGUN_MK2_CAMO_05",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PUMPSHOTGUN_MK2_CAMO_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Perseus",
+    "ModelName": "COMPONENT_PUMPSHOTGUN_MK2_CAMO_06",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PUMPSHOTGUN_MK2_CAMO_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Leopard",
+    "ModelName": "COMPONENT_PUMPSHOTGUN_MK2_CAMO_07",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PUMPSHOTGUN_MK2_CAMO_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Zebra",
+    "ModelName": "COMPONENT_PUMPSHOTGUN_MK2_CAMO_08",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PUMPSHOTGUN_MK2_CAMO_08",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Geometric",
+    "ModelName": "COMPONENT_PUMPSHOTGUN_MK2_CAMO_09",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PUMPSHOTGUN_MK2_CAMO_09",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Boom!",
+    "ModelName": "COMPONENT_PUMPSHOTGUN_MK2_CAMO_10",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PUMPSHOTGUN_MK2_CAMO_10",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Patriotic",
+    "ModelName": "COMPONENT_PUMPSHOTGUN_MK2_CAMO_IND_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PUMPSHOTGUN_MK2_CAMO_IND_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Default Shells",
+    "ModelName": "COMPONENT_PUMPSHOTGUN_MK2_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PUMPSHOTGUN_MK2_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Steel Buckshot Shells",
+    "ModelName": "COMPONENT_PUMPSHOTGUN_MK2_CLIP_ARMORPIERCING",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PUMPSHOTGUN_MK2_CLIP_ARMORPIERCING",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Explosive Slugs",
+    "ModelName": "COMPONENT_PUMPSHOTGUN_MK2_CLIP_EXPLOSIVE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PUMPSHOTGUN_MK2_CLIP_EXPLOSIVE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Flechette Shells",
+    "ModelName": "COMPONENT_PUMPSHOTGUN_MK2_CLIP_HOLLOWPOINT",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PUMPSHOTGUN_MK2_CLIP_HOLLOWPOINT",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_pumpshotgun_mk2",
+    "LableName": "Dragon's Breath Shells",
+    "ModelName": "COMPONENT_PUMPSHOTGUN_MK2_CLIP_INCENDIARY",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_PUMPSHOTGUN_MK2_CLIP_INCENDIARY",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver",
+    "LableName": "VIP Variant",
+    "ModelName": "COMPONENT_REVOLVER_VARMOD_BOSS",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_VARMOD_BOSS",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver",
+    "LableName": "Bodyguard Variant",
+    "ModelName": "COMPONENT_REVOLVER_VARMOD_GOON",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_VARMOD_GOON",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Compensator",
+    "ModelName": "COMPONENT_AT_PI_COMP_03",
+    "Id": "UNLOCKBLE_WEAPON_REVOLVER_MK2_COMPONENT_AT_PI_COMP_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_PI_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_REVOLVER_MK2_COMPONENT_AT_PI_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Small Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MACRO_MK2",
+    "Id": "UNLOCKBLE_WEAPON_REVOLVER_MK2_COMPONENT_AT_SCOPE_MACRO_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Holographic Sight",
+    "ModelName": "COMPONENT_AT_SIGHTS",
+    "Id": "UNLOCKBLE_WEAPON_REVOLVER_MK2_COMPONENT_AT_SIGHTS",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Digital Camo",
+    "ModelName": "COMPONENT_REVOLVER_MK2_CAMO",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_MK2_CAMO",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Brushstroke Camo",
+    "ModelName": "COMPONENT_REVOLVER_MK2_CAMO_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_MK2_CAMO_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Woodland Camo",
+    "ModelName": "COMPONENT_REVOLVER_MK2_CAMO_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_MK2_CAMO_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Skull",
+    "ModelName": "COMPONENT_REVOLVER_MK2_CAMO_04",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_MK2_CAMO_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Sessanta Nove",
+    "ModelName": "COMPONENT_REVOLVER_MK2_CAMO_05",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_MK2_CAMO_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Perseus",
+    "ModelName": "COMPONENT_REVOLVER_MK2_CAMO_06",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_MK2_CAMO_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Leopard",
+    "ModelName": "COMPONENT_REVOLVER_MK2_CAMO_07",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_MK2_CAMO_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Zebra",
+    "ModelName": "COMPONENT_REVOLVER_MK2_CAMO_08",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_MK2_CAMO_08",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Geometric",
+    "ModelName": "COMPONENT_REVOLVER_MK2_CAMO_09",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_MK2_CAMO_09",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Boom!",
+    "ModelName": "COMPONENT_REVOLVER_MK2_CAMO_10",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_MK2_CAMO_10",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Patriotic",
+    "ModelName": "COMPONENT_REVOLVER_MK2_CAMO_IND_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_MK2_CAMO_IND_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Default Rounds",
+    "ModelName": "COMPONENT_REVOLVER_MK2_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_MK2_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Full Metal Jacket Rounds",
+    "ModelName": "COMPONENT_REVOLVER_MK2_CLIP_FMJ",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_MK2_CLIP_FMJ",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Hollow Point Rounds",
+    "ModelName": "COMPONENT_REVOLVER_MK2_CLIP_HOLLOWPOINT",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_MK2_CLIP_HOLLOWPOINT",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Incendiary Rounds",
+    "ModelName": "COMPONENT_REVOLVER_MK2_CLIP_INCENDIARY",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_MK2_CLIP_INCENDIARY",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_revolver_mk2",
+    "LableName": "Tracer Rounds",
+    "ModelName": "COMPONENT_REVOLVER_MK2_CLIP_TRACER",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_REVOLVER_MK2_CLIP_TRACER",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_sawnoffshotgun",
+    "LableName": "Gilded Gun Metal Finish",
+    "ModelName": "COMPONENT_SAWNOFFSHOTGUN_VARMOD_LUXE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SAWNOFFSHOTGUN_VARMOD_LUXE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_SMG_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_SMG_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg",
+    "LableName": "Drum Magazine",
+    "ModelName": "COMPONENT_SMG_CLIP_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_CLIP_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg",
+    "LableName": "Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MACRO_02",
+    "Id": "UNLOCKBLE_WEAPON_SMG_COMPONENT_AT_SCOPE_MACRO_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg",
+    "LableName": "Yusuf Amir Luxury Finish",
+    "ModelName": "COMPONENT_SMG_VARMOD_LUXE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_VARMOD_LUXE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_SMG_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_PI_SUPP",
+    "Id": "UNLOCKBLE_WEAPON_SMG_COMPONENT_AT_PI_SUPP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_SMG_MK2_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Flat Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_01",
+    "Id": "UNLOCKBLE_WEAPON_SMG_MK2_COMPONENT_AT_MUZZLE_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Tactical Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_02",
+    "Id": "UNLOCKBLE_WEAPON_SMG_MK2_COMPONENT_AT_MUZZLE_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Fat-End Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_03",
+    "Id": "UNLOCKBLE_WEAPON_SMG_MK2_COMPONENT_AT_MUZZLE_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Precision Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_04",
+    "Id": "UNLOCKBLE_WEAPON_SMG_MK2_COMPONENT_AT_MUZZLE_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Heavy Duty Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_05",
+    "Id": "UNLOCKBLE_WEAPON_SMG_MK2_COMPONENT_AT_MUZZLE_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Slanted Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_06",
+    "Id": "UNLOCKBLE_WEAPON_SMG_MK2_COMPONENT_AT_MUZZLE_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Split-End Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_07",
+    "Id": "UNLOCKBLE_WEAPON_SMG_MK2_COMPONENT_AT_MUZZLE_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_PI_SUPP",
+    "Id": "UNLOCKBLE_WEAPON_SMG_MK2_COMPONENT_AT_PI_SUPP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Default Barrel",
+    "ModelName": "COMPONENT_AT_SB_BARREL_01",
+    "Id": "UNLOCKBLE_WEAPON_SMG_MK2_COMPONENT_AT_SB_BARREL_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Heavy Barrel",
+    "ModelName": "COMPONENT_AT_SB_BARREL_02",
+    "Id": "UNLOCKBLE_WEAPON_SMG_MK2_COMPONENT_AT_SB_BARREL_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Small Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MACRO_02_SMG_MK2",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_AT_SCOPE_MACRO_02_SMG_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Medium Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_SMALL_SMG_MK2",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_AT_SCOPE_SMALL_SMG_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Holographic Sight",
+    "ModelName": "COMPONENT_AT_SIGHTS_SMG",
+    "Id": "UNLOCKBLE_WEAPON_SMG_MK2_COMPONENT_AT_SIGHTS_SMG",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Digital Camo",
+    "ModelName": "COMPONENT_SMG_MK2_CAMO",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_MK2_CAMO",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Brushstroke Camo",
+    "ModelName": "COMPONENT_SMG_MK2_CAMO_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_MK2_CAMO_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Woodland Camo",
+    "ModelName": "COMPONENT_SMG_MK2_CAMO_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_MK2_CAMO_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Skull",
+    "ModelName": "COMPONENT_SMG_MK2_CAMO_04",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_MK2_CAMO_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Sessanta Nove",
+    "ModelName": "COMPONENT_SMG_MK2_CAMO_05",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_MK2_CAMO_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Perseus",
+    "ModelName": "COMPONENT_SMG_MK2_CAMO_06",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_MK2_CAMO_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Leopard",
+    "ModelName": "COMPONENT_SMG_MK2_CAMO_07",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_MK2_CAMO_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Zebra",
+    "ModelName": "COMPONENT_SMG_MK2_CAMO_08",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_MK2_CAMO_08",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Geometric",
+    "ModelName": "COMPONENT_SMG_MK2_CAMO_09",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_MK2_CAMO_09",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Boom!",
+    "ModelName": "COMPONENT_SMG_MK2_CAMO_10",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_MK2_CAMO_10",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Patriotic",
+    "ModelName": "COMPONENT_SMG_MK2_CAMO_IND_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_MK2_CAMO_IND_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_SMG_MK2_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_MK2_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_SMG_MK2_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_MK2_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Full Metal Jacket Rounds",
+    "ModelName": "COMPONENT_SMG_MK2_CLIP_FMJ",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_MK2_CLIP_FMJ",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Hollow Point Rounds",
+    "ModelName": "COMPONENT_SMG_MK2_CLIP_HOLLOWPOINT",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_MK2_CLIP_HOLLOWPOINT",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Incendiary Rounds",
+    "ModelName": "COMPONENT_SMG_MK2_CLIP_INCENDIARY",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_MK2_CLIP_INCENDIARY",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_smg_mk2",
+    "LableName": "Tracer Rounds",
+    "ModelName": "COMPONENT_SMG_MK2_CLIP_TRACER",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SMG_MK2_CLIP_TRACER",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_sniperrifle",
+    "LableName": "Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_LARGE",
+    "Id": "UNLOCKBLE_WEAPON_SNIPERRIFLE_COMPONENT_AT_SCOPE_LARGE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_sniperrifle",
+    "LableName": "Etched Wood Grip Finish",
+    "ModelName": "COMPONENT_SNIPERRIFLE_VARMOD_LUXE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNIPERRIFLE_VARMOD_LUXE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_sniperrifle",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP_02",
+    "Id": "UNLOCKBLE_WEAPON_SNIPERRIFLE_COMPONENT_AT_AR_SUPP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_sniperrifle",
+    "LableName": "Advanced Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MAX",
+    "Id": "UNLOCKBLE_WEAPON_SNIPERRIFLE_COMPONENT_AT_SCOPE_MAX",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_SNSPISTOL_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_SNSPISTOL_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol",
+    "LableName": "Etched Wood Grip Finish",
+    "ModelName": "COMPONENT_SNSPISTOL_VARMOD_LOWRIDER",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_VARMOD_LOWRIDER",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Compensator",
+    "ModelName": "COMPONENT_AT_PI_COMP_02",
+    "Id": "UNLOCKBLE_WEAPON_SNSPISTOL_MK2_COMPONENT_AT_PI_COMP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_PI_FLSH_03",
+    "Id": "UNLOCKBLE_WEAPON_SNSPISTOL_MK2_COMPONENT_AT_PI_FLSH_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Mounted Scope",
+    "ModelName": "COMPONENT_AT_PI_RAIL_02",
+    "Id": "UNLOCKBLE_WEAPON_SNSPISTOL_MK2_COMPONENT_AT_PI_RAIL_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_PI_SUPP_02",
+    "Id": "UNLOCKBLE_WEAPON_SNSPISTOL_MK2_COMPONENT_AT_PI_SUPP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Digital Camo",
+    "ModelName": "COMPONENT_SNSPISTOL_MK2_CAMO",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_MK2_CAMO",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Brushstroke Camo",
+    "ModelName": "COMPONENT_SNSPISTOL_MK2_CAMO_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_MK2_CAMO_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Woodland Camo",
+    "ModelName": "COMPONENT_SNSPISTOL_MK2_CAMO_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_MK2_CAMO_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Skull",
+    "ModelName": "COMPONENT_SNSPISTOL_MK2_CAMO_04",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_MK2_CAMO_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Sessanta Nove",
+    "ModelName": "COMPONENT_SNSPISTOL_MK2_CAMO_05",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_MK2_CAMO_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Perseus",
+    "ModelName": "COMPONENT_SNSPISTOL_MK2_CAMO_06",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_MK2_CAMO_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Leopard",
+    "ModelName": "COMPONENT_SNSPISTOL_MK2_CAMO_07",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_MK2_CAMO_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Zebra",
+    "ModelName": "COMPONENT_SNSPISTOL_MK2_CAMO_08",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_MK2_CAMO_08",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Geometric",
+    "ModelName": "COMPONENT_SNSPISTOL_MK2_CAMO_09",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_MK2_CAMO_09",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Boom!",
+    "ModelName": "COMPONENT_SNSPISTOL_MK2_CAMO_10",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_MK2_CAMO_10",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_SNSPISTOL_MK2_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_MK2_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_SNSPISTOL_MK2_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_MK2_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Full Metal Jacket Rounds",
+    "ModelName": "COMPONENT_SNSPISTOL_MK2_CLIP_FMJ",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_MK2_CLIP_FMJ",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Hollow Point Rounds",
+    "ModelName": "COMPONENT_SNSPISTOL_MK2_CLIP_HOLLOWPOINT",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_MK2_CLIP_HOLLOWPOINT",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Incendiary Rounds",
+    "ModelName": "COMPONENT_SNSPISTOL_MK2_CLIP_INCENDIARY",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_MK2_CLIP_INCENDIARY",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_snspistol_mk2",
+    "LableName": "Tracer Rounds",
+    "ModelName": "COMPONENT_SNSPISTOL_MK2_CLIP_TRACER",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SNSPISTOL_MK2_CLIP_TRACER",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine",
+    "LableName": "Grip",
+    "ModelName": "COMPONENT_AT_AR_AFGRIP",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_COMPONENT_AT_AR_AFGRIP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP_02",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_COMPONENT_AT_AR_SUPP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine",
+    "LableName": "Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MEDIUM",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_COMPONENT_AT_SCOPE_MEDIUM",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_SPECIALCARBINE_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_SPECIALCARBINE_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine",
+    "LableName": "Drum Magazine",
+    "ModelName": "COMPONENT_SPECIALCARBINE_CLIP_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_CLIP_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine",
+    "LableName": "Etched Gun Metal Finish",
+    "ModelName": "COMPONENT_SPECIALCARBINE_VARMOD_LOWRIDER",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_VARMOD_LOWRIDER",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Grip",
+    "ModelName": "COMPONENT_AT_AR_AFGRIP_02",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_MK2_COMPONENT_AT_AR_AFGRIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Flashlight",
+    "ModelName": "COMPONENT_AT_AR_FLSH",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_MK2_COMPONENT_AT_AR_FLSH",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_AR_SUPP_02",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_MK2_COMPONENT_AT_AR_SUPP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Flat Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_01",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_MK2_COMPONENT_AT_MUZZLE_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Tactical Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_02",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_MK2_COMPONENT_AT_MUZZLE_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Fat-End Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_03",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_MK2_COMPONENT_AT_MUZZLE_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Precision Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_04",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_MK2_COMPONENT_AT_MUZZLE_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Heavy Duty Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_05",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_MK2_COMPONENT_AT_MUZZLE_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Slanted Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_06",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_MK2_COMPONENT_AT_MUZZLE_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Split-End Muzzle Brake",
+    "ModelName": "COMPONENT_AT_MUZZLE_07",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_MK2_COMPONENT_AT_MUZZLE_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Small Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MACRO_MK2",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_MK2_COMPONENT_AT_SCOPE_MACRO_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Large Scope",
+    "ModelName": "COMPONENT_AT_SCOPE_MEDIUM_MK2",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_MK2_COMPONENT_AT_SCOPE_MEDIUM_MK2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Default Barrel",
+    "ModelName": "COMPONENT_AT_SC_BARREL_01",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_MK2_COMPONENT_AT_SC_BARREL_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Heavy Barrel",
+    "ModelName": "COMPONENT_AT_SC_BARREL_02",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_MK2_COMPONENT_AT_SC_BARREL_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Holographic Sight",
+    "ModelName": "COMPONENT_AT_SIGHTS",
+    "Id": "UNLOCKBLE_WEAPON_SPECIALCARBINE_MK2_COMPONENT_AT_SIGHTS",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Digital Camo",
+    "ModelName": "COMPONENT_SPECIALCARBINE_MK2_CAMO",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_MK2_CAMO",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Brushstroke Camo",
+    "ModelName": "COMPONENT_SPECIALCARBINE_MK2_CAMO_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_MK2_CAMO_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Woodland Camo",
+    "ModelName": "COMPONENT_SPECIALCARBINE_MK2_CAMO_03",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_MK2_CAMO_03",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Skull",
+    "ModelName": "COMPONENT_SPECIALCARBINE_MK2_CAMO_04",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_MK2_CAMO_04",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Sessanta Nove",
+    "ModelName": "COMPONENT_SPECIALCARBINE_MK2_CAMO_05",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_MK2_CAMO_05",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Perseus",
+    "ModelName": "COMPONENT_SPECIALCARBINE_MK2_CAMO_06",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_MK2_CAMO_06",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Leopard",
+    "ModelName": "COMPONENT_SPECIALCARBINE_MK2_CAMO_07",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_MK2_CAMO_07",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Zebra",
+    "ModelName": "COMPONENT_SPECIALCARBINE_MK2_CAMO_08",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_MK2_CAMO_08",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Geometric",
+    "ModelName": "COMPONENT_SPECIALCARBINE_MK2_CAMO_09",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_MK2_CAMO_09",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Boom!",
+    "ModelName": "COMPONENT_SPECIALCARBINE_MK2_CAMO_10",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_MK2_CAMO_10",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Patriotic",
+    "ModelName": "COMPONENT_SPECIALCARBINE_MK2_CAMO_IND_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_MK2_CAMO_IND_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_SPECIALCARBINE_MK2_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_MK2_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_SPECIALCARBINE_MK2_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_MK2_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Armor Piercing Rounds",
+    "ModelName": "COMPONENT_SPECIALCARBINE_MK2_CLIP_ARMORPIERCING",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_MK2_CLIP_ARMORPIERCING",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Full Metal Jacket Rounds",
+    "ModelName": "COMPONENT_SPECIALCARBINE_MK2_CLIP_FMJ",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_MK2_CLIP_FMJ",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Incendiary Rounds",
+    "ModelName": "COMPONENT_SPECIALCARBINE_MK2_CLIP_INCENDIARY",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_MK2_CLIP_INCENDIARY",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_specialcarbine_mk2",
+    "LableName": "Tracer Rounds",
+    "ModelName": "COMPONENT_SPECIALCARBINE_MK2_CLIP_TRACER",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SPECIALCARBINE_MK2_CLIP_TRACER",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_switchblade",
+    "LableName": "Default Handle",
+    "ModelName": "COMPONENT_SWITCHBLADE_VARMOD_BASE",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SWITCHBLADE_VARMOD_BASE",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_switchblade",
+    "LableName": "VIP Variant",
+    "ModelName": "COMPONENT_SWITCHBLADE_VARMOD_VAR1",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SWITCHBLADE_VARMOD_VAR1",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_switchblade",
+    "LableName": "Bodyguard Variant",
+    "ModelName": "COMPONENT_SWITCHBLADE_VARMOD_VAR2",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_SWITCHBLADE_VARMOD_VAR2",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_vintagepistol",
+    "LableName": "Suppressor",
+    "ModelName": "COMPONENT_AT_PI_SUPP",
+    "Id": "UNLOCKBLE_WEAPON_VINTAGEPISTOL_COMPONENT_AT_PI_SUPP",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_vintagepistol",
+    "LableName": "Default Clip",
+    "ModelName": "COMPONENT_VINTAGEPISTOL_CLIP_01",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_VINTAGEPISTOL_CLIP_01",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_vintagepistol",
+    "LableName": "Extended Clip",
+    "ModelName": "COMPONENT_VINTAGEPISTOL_CLIP_02",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_VINTAGEPISTOL_CLIP_02",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  },
+  {
+    "TargetWeapon": "weapon_raypistol",
+    "LableName": "Festive tint",
+    "ModelName": "COMPONENT_RAYPISTOL_VARMOD_XMAS18",
+    "Id": "UNLOCKBLE_WEAPON_COMPONENT_RAYPISTOL_VARMOD_XMAS18",
+    "IdType": "UNLOCKBLE_WEAPON_COMPONENT",
+    "Type": 0,
+    "UnlockTarget": 0,
+    "IsAddon": false
+  }
+]

@@ -1,0 +1,1930 @@
+/*
+  *    //[UNUSED]
+  *
+  *
+  *    //[IRVDM DEVELOPT BY MEHRAD GHAEDI]
+  */
+{
+  "Weapons": [
+    {
+      "Name": "weapon_knife",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "melee",
+      "Model": "prop_w_me_knife_01"
+    },
+    {
+      "Name": "weapon_nightstick",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "melee",
+      "Model": "w_me_nightstick"
+    },
+    {
+      "Name": "weapon_hammer",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "melee",
+      "Model": "prop_tool_hammer"
+    },
+    {
+      "Name": "weapon_bat",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 320.0,
+        "Y": 320.0,
+        "Z": 320.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "melee",
+      "Model": "w_me_bat"
+    },
+    {
+      "Name": "weapon_golfclub",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "melee",
+      "Model": "w_me_gclub"
+    },
+    {
+      "Name": "weapon_crowbar",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "melee",
+      "Model": "w_me_crowbar"
+    },
+    {
+      "Name": "weapon_bottle",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "melee",
+      "Model": "prop_w_me_bottle"
+    },
+    {
+      "Name": "weapon_knuckle",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "melee",
+      "Model": "prop_w_me_dagger"
+    },
+    {
+      "Name": "weapon_hatchet",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "melee",
+      "Model": "w_me_hatchet"
+    },
+    {
+      "Name": "weapon_machete",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "melee",
+      "Model": "prop_ld_w_me_machette"
+    },
+    {
+      "Name": "weapon_switchblade",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "melee",
+      "Model": "prop_w_me_dagger"
+    },
+    {
+      "Name": "weapon_flashlight",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "melee",
+      "Model": "prop_w_me_dagger"
+    },
+    {
+      "Name": "weapon_pistol",
+      "Bone": 51826,
+      "BonPos": {
+        "X": -0.01,
+        "Y": 0.1,
+        "Z": 0.07,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": -115.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "handguns",
+      "Model": "w_pi_pistol"
+    },
+    {
+      "Name": "weapon_combatpistol",
+      "Bone": 51826,
+      "BonPos": {
+        "X": -0.01,
+        "Y": 0.1,
+        "Z": 0.07,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": -115.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "handguns",
+      "Model": "w_pi_combatpistol"
+    },
+    {
+      "Name": "weapon_appistol",
+      "Bone": 51826,
+      "BonPos": {
+        "X": -0.01,
+        "Y": 0.1,
+        "Z": 0.07,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": -115.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "handguns",
+      "Model": "w_pi_appistol"
+    },
+    {
+      "Name": "weapon_pistol50",
+      "Bone": 51826,
+      "BonPos": {
+        "X": -0.01,
+        "Y": 0.1,
+        "Z": 0.07,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": -115.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "handguns",
+      "Model": "w_pi_pistol50"
+    },
+    {
+      "Name": "weapon_vintagepistol",
+      "Bone": 51826,
+      "BonPos": {
+        "X": -0.01,
+        "Y": 0.1,
+        "Z": 0.07,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": -115.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "handguns",
+      "Model": "w_pi_vintage_pistol"
+    },
+    {
+      "Name": "weapon_heavypistol",
+      "Bone": 51826,
+      "BonPos": {
+        "X": -0.01,
+        "Y": 0.1,
+        "Z": 0.07,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": -115.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "handguns",
+      "Model": "w_pi_heavypistol"
+    },
+    {
+      "Name": "weapon_snspistol",
+      "Bone": 58271,
+      "BonPos": {
+        "X": -0.01,
+        "Y": 0.1,
+        "Z": -0.07,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": -55.0,
+        "Y": 0.1,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "handguns",
+      "Model": "w_pi_sns_pistol"
+    },
+    {
+      "Name": "weapon_flaregun",
+      "Bone": 58271,
+      "BonPos": {
+        "X": -0.01,
+        "Y": 0.1,
+        "Z": -0.07,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": -55.0,
+        "Y": 0.1,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "handguns",
+      "Model": "w_pi_flaregun"
+    },
+    {
+      "Name": "weapon_marksmanpistol",
+      "Bone": 58271,
+      "BonPos": {
+        "X": -0.01,
+        "Y": 0.1,
+        "Z": -0.07,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": -55.0,
+        "Y": 0.1,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "handguns",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_revolver",
+      "Bone": 58271,
+      "BonPos": {
+        "X": -0.01,
+        "Y": 0.1,
+        "Z": -0.07,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": -55.0,
+        "Y": 0.1,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "handguns",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_stungun",
+      "Bone": 58271,
+      "BonPos": {
+        "X": -0.01,
+        "Y": 0.1,
+        "Z": -0.07,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": -55.0,
+        "Y": 0.1,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "handguns",
+      "Model": "w_pi_stungun"
+    },
+    {
+      "Name": "weapon_microsmg",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "machine",
+      "Model": "w_sb_microsmg"
+    },
+    {
+      "Name": "weapon_smg",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "machine",
+      "Model": "w_sb_smg"
+    },
+    {
+      "Name": "weapon_mg",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "heavy_machineGuns",
+      "Model": "w_mg_mg"
+    },
+    {
+      "Name": "weapon_combatmg",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "heavy_machineGuns",
+      "Model": "w_mg_combatmg"
+    },
+    {
+      "Name": "weapon_gusenberg",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "machine",
+      "Model": "w_sb_gusenberg"
+    },
+    {
+      "Name": "weapon_combatpdw",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "machine",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_machinepistol",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "machine",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_assaultsmg",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "machine",
+      "Model": "w_sb_assaultsmg"
+    },
+    {
+      "Name": "weapon_minismg",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "machine",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_assaultrifle",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 0.09,
+        "Y": -0.15,
+        "Z": 0.1,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 10.0,
+        "Y": 160.0,
+        "Z": 10.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "assault",
+      "Model": "w_ar_assaultrifle"
+    },
+    {
+      "Name": "weapon_carbinerifle",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "assault",
+      "Model": "w_ar_carbinerifle"
+    },
+    {
+      "Name": "weapon_advancedrifle",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "assault",
+      "Model": "w_ar_advancedrifle"
+    },
+    {
+      "Name": "weapon_specialcarbine",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "assault",
+      "Model": "w_ar_specialcarbine"
+    },
+    {
+      "Name": "weapon_bullpuprifle",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "assault",
+      "Model": "w_ar_bullpuprifle"
+    },
+    {
+      "Name": "weapon_compactrifle",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "assault",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_pumpshotgun",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 0.1,
+        "Y": -0.15,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 135.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "shotgun",
+      "Model": "w_sg_pumpshotgun"
+    },
+    {
+      "Name": "weapon_sawnoffshotgun",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 0.1,
+        "Y": -0.15,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "shotgun",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_bullpupshotgun",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 0.1,
+        "Y": -0.15,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 135.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "shotgun",
+      "Model": "w_sg_bullpupshotgun"
+    },
+    {
+      "Name": "weapon_assaultshotgun",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 0.1,
+        "Y": -0.15,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "shotgun",
+      "Model": "w_sg_assaultshotgun"
+    },
+    {
+      "Name": "weapon_musket",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 0.1,
+        "Y": -0.15,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "shotgun",
+      "Model": "w_ar_musket"
+    },
+    {
+      "Name": "weapon_heavyshotgun",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 0.1,
+        "Y": -0.15,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 225.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "shotgun",
+      "Model": "w_sg_heavyshotgun"
+    },
+    {
+      "Name": "weapon_dbshotgun",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 0.1,
+        "Y": -0.15,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "shotgun",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_autoshotgun",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 0.1,
+        "Y": 0.15,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "shotgun",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_sniperrifle",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "sniper",
+      "Model": "w_sr_sniperrifle"
+    },
+    {
+      "Name": "weapon_heavysniper",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 0.1,
+        "Y": -0.15,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 135.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "sniper",
+      "Model": "w_sr_heavysniper"
+    },
+    {
+      "Name": "weapon_marksmanrifle",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 0.1,
+        "Y": -0.15,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 135.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "Category": "sniper",
+      "Model": "w_sr_marksmanrifle"
+    },
+    {
+      "Name": "weapon_remotesniper",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "none",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_stinger",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "none",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_grenadelauncher",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "heavy",
+      "Model": "w_lr_grenadelauncher"
+    },
+    {
+      "Name": "weapon_rpg",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "heavy_explosion",
+      "Model": "w_lr_rpg"
+    },
+    {
+      "Name": "weapon_minigun",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "heavy",
+      "Model": "w_mg_minigun"
+    },
+    {
+      "Name": "weapon_firework",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "heavy",
+      "Model": "w_lr_firework"
+    },
+    {
+      "Name": "weapon_railgun",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "heavy_explosion",
+      "Model": "w_ar_railgun"
+    },
+    {
+      "Name": "weapon_hominglauncher",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "heavy_explosion",
+      "Model": "w_lr_homing"
+    },
+    {
+      "Name": "weapon_compactlauncher",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "heavy",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_stickybomb",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "thrown",
+      "Model": "prop_bomb_01_s"
+    },
+    {
+      "Name": "weapon_molotov",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "thrown",
+      "Model": "w_ex_molotov"
+    },
+    {
+      "Name": "weapon_fireextinguisher",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "thrown",
+      "Model": "w_am_fire_exting"
+    },
+    {
+      "Name": "weapon_petrolcan",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "thrown",
+      "Model": "w_am_jerrycan"
+    },
+    {
+      "Name": "weapon_proxmine",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "thrown",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_snowball",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "thrown",
+      "Model": "w_ex_snowball"
+    },
+    {
+      "Name": "weapon_ball",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "thrown",
+      "Model": "w_am_baseball"
+    },
+    {
+      "Name": "weapon_grenade",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "thrown",
+      "Model": "w_ex_grenadefrag"
+    },
+    {
+      "Name": "weapon_smokegrenade",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "thrown",
+      "Model": "w_ex_grenadesmoke"
+    },
+    {
+      "Name": "weapon_bzgas",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "thrown",
+      "Model": "w_ex_grenadesmoke"
+    },
+    {
+      "Name": "weapon_digiscanner",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "others",
+      "Model": "w_am_digiscanner"
+    },
+    {
+      "Name": "weapon_dagger",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "melee",
+      "Model": "prop_w_me_dagger"
+    },
+    {
+      "Name": "weapon_garbagebag",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "others",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_handcuffs",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "others",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_battleaxe",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "melee",
+      "Model": "prop_tool_fireaxe"
+    },
+    {
+      "Name": "weapon_pipebomb",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "thrown",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_poolcue",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "others",
+      "Model": "prop_pool_cue"
+    },
+    {
+      "Name": "weapon_wrench",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "others",
+      "Model": "w_me_hammer"
+    },
+    {
+      "Name": "gadget_nightvision",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "others",
+      "Model": ""
+    },
+    {
+      "Name": "gadget_parachute",
+      "Bone": 24818,
+      "BonPos": {
+        "X": 65536.0,
+        "Y": 65536.0,
+        "Z": 65536.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "others",
+      "Model": "p_parachute_s"
+    },
+    {
+      "Name": "weapon_assaultrifle_mk2",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "assault",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_bullpuprifle_mk2",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "assault",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_carbinerifle_mk2",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "assault",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_combatmg_mk2",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "heavy_machineGuns",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_doubleaction",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_flare",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "thrown",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_marksmanrifle_mk2",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "sniper",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_pistol_mk2",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "handguns",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_pumpshotgun_mk2",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "shotgun",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_revolver_mk2",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "handguns",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_smg_mk2",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "machine",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_snspistol_mk2",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "handguns",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_specialcarbine_mk2",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "assault",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_unarmed",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "BareHand",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_raypistol",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "handguns",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_raycarbine",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "assault",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_rayminigun",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "heavy",
+      "Model": ""
+    },
+    {
+      "Name": "weapon_stone_hatchet",
+      "Bone": -1,
+      "BonPos": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "BoneRot": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "IsNormalized": false,
+        "IsZero": true
+      },
+      "Category": "melee",
+      "Model": ""
+    }
+  ]
+}
